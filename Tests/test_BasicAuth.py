@@ -17,3 +17,18 @@ class TestBasicAuth(BaseClass):
 
         except:
             self.log.error(sys.exc_info())
+
+    # These are the new changes now
+
+    def test_BasicAuthNew(self):
+        self.log = self.getLogger()
+        try:
+            self.driver.find_element_by_xpath('//*[@id="content"]/ul/li[3]/a').click()
+            sleep(5)
+            self.parent_window = self.driver.window_handles[0]
+            self.child_window = self.driver.window_handles[1]
+            self.switch_to.window(self.child_window)
+
+
+        except:
+            self.log.error(sys.exc_info())
