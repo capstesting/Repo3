@@ -7,6 +7,7 @@ from urllib3 import response
 
 from utilities.BaseClass import BaseClass
 
+# This is the Broken Image Test
 
 class TestBrokenImage(BaseClass):
     def test_BrokenImg(self):
