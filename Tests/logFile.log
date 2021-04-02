@@ -1,0 +1,1688 @@
+2021-02-28 02:33:10,314 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x0000017EFE6C7680>)
+2021-02-28 02:40:19,601 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x0000021BD67A09C0>)
+2021-02-28 02:42:52,224 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000002342F248440>)
+2021-02-28 02:46:00,739 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x0000024D8EB45FC0>)
+2021-02-28 02:47:47,601 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x0000024F958C8280>)
+2021-02-28 02:56:24,098 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000002265DD687C0>)
+2021-02-28 02:57:48,559 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000002412C23E640>)
+2021-02-28 02:59:18,798 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000001D56E890540>)
+2021-02-28 02:59:58,756 : INFO : test_checkButtons : Here
+2021-02-28 02:59:58,850 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:58,851 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:58,851 : INFO : test_checkButtons : Number of Delete buttons is as Expected
+2021-02-28 02:59:58,904 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:58,904 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:58,952 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:58,952 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,006 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,006 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,055 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,056 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,087 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,087 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,118 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,118 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,154 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,155 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,188 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,188 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,223 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,223 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,254 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,254 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,286 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,286 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,319 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,320 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,352 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,352 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,396 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,397 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,441 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,441 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,488 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,488 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,530 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,530 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,594 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,595 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,639 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,639 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,683 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,683 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,727 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,728 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,765 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,766 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,805 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,805 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,846 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,846 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,886 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,886 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,928 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,929 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 02:59:59,971 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 02:59:59,971 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,030 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,030 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,077 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,078 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,113 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,113 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,153 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,153 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,195 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,195 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,234 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,234 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,271 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,271 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,311 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,311 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,347 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,348 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,387 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,387 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,423 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,423 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,465 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,465 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,502 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,502 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,538 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,538 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,579 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,580 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,615 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,615 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,653 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,653 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,693 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,693 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,729 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,729 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,770 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,771 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:00:00,811 : INFO : test_checkButtons : Clicked on Add Element
+2021-02-28 03:00:00,811 : INFO : test_checkButtons : Count for Expected Delete increased
+2021-02-28 03:10:07,573 : INFO : test_checkButtons : Here
+2021-02-28 03:10:07,654 : ERROR : test_checkButtons : (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x000001E0C20A8E80>)
+2021-02-28 03:12:02,177 : INFO : test_checkButtons : Here
+2021-02-28 03:12:02,243 : INFO : test_checkButtons : Clicked on Add Element. Current count= 1
+2021-02-28 03:12:02,243 : INFO : test_checkButtons : Count for Expected Delete increased to 1
+2021-02-28 03:12:02,244 : INFO : test_checkButtons : Number of Delete buttons is as Expected
+2021-02-28 03:12:02,295 : INFO : test_checkButtons : Clicked on Add Element. Current count= 2
+2021-02-28 03:12:02,295 : INFO : test_checkButtons : Count for Expected Delete increased to 2
+2021-02-28 03:12:02,338 : INFO : test_checkButtons : Clicked on Add Element. Current count= 3
+2021-02-28 03:12:02,338 : INFO : test_checkButtons : Count for Expected Delete increased to 3
+2021-02-28 03:12:02,381 : INFO : test_checkButtons : Clicked on Add Element. Current count= 4
+2021-02-28 03:12:02,382 : INFO : test_checkButtons : Count for Expected Delete increased to 4
+2021-02-28 03:12:02,418 : INFO : test_checkButtons : Clicked on Add Element. Current count= 5
+2021-02-28 03:12:02,418 : INFO : test_checkButtons : Count for Expected Delete increased to 5
+2021-02-28 03:12:02,458 : INFO : test_checkButtons : Clicked on Add Element. Current count= 6
+2021-02-28 03:12:02,458 : INFO : test_checkButtons : Count for Expected Delete increased to 6
+2021-02-28 03:12:02,490 : INFO : test_checkButtons : Clicked on Add Element. Current count= 7
+2021-02-28 03:12:02,491 : INFO : test_checkButtons : Count for Expected Delete increased to 7
+2021-02-28 03:12:02,523 : INFO : test_checkButtons : Clicked on Add Element. Current count= 8
+2021-02-28 03:12:02,523 : INFO : test_checkButtons : Count for Expected Delete increased to 8
+2021-02-28 03:12:02,555 : INFO : test_checkButtons : Clicked on Add Element. Current count= 9
+2021-02-28 03:12:02,556 : INFO : test_checkButtons : Count for Expected Delete increased to 9
+2021-02-28 03:12:02,587 : INFO : test_checkButtons : Clicked on Add Element. Current count= 10
+2021-02-28 03:12:02,587 : INFO : test_checkButtons : Count for Expected Delete increased to 10
+2021-02-28 03:12:02,616 : INFO : test_checkButtons : Clicked on Add Element. Current count= 11
+2021-02-28 03:12:02,617 : INFO : test_checkButtons : Count for Expected Delete increased to 11
+2021-02-28 03:12:02,647 : INFO : test_checkButtons : Clicked on Add Element. Current count= 12
+2021-02-28 03:12:02,647 : INFO : test_checkButtons : Count for Expected Delete increased to 12
+2021-02-28 03:12:02,683 : INFO : test_checkButtons : Clicked on Add Element. Current count= 13
+2021-02-28 03:12:02,683 : INFO : test_checkButtons : Count for Expected Delete increased to 13
+2021-02-28 03:12:02,715 : INFO : test_checkButtons : Clicked on Add Element. Current count= 14
+2021-02-28 03:12:02,716 : INFO : test_checkButtons : Count for Expected Delete increased to 14
+2021-02-28 03:12:02,748 : INFO : test_checkButtons : Clicked on Add Element. Current count= 15
+2021-02-28 03:12:02,748 : INFO : test_checkButtons : Count for Expected Delete increased to 15
+2021-02-28 03:12:02,780 : INFO : test_checkButtons : Clicked on Add Element. Current count= 16
+2021-02-28 03:12:02,780 : INFO : test_checkButtons : Count for Expected Delete increased to 16
+2021-02-28 03:12:02,814 : INFO : test_checkButtons : Clicked on Add Element. Current count= 17
+2021-02-28 03:12:02,814 : INFO : test_checkButtons : Count for Expected Delete increased to 17
+2021-02-28 03:12:02,843 : INFO : test_checkButtons : Clicked on Add Element. Current count= 18
+2021-02-28 03:12:02,844 : INFO : test_checkButtons : Count for Expected Delete increased to 18
+2021-02-28 03:12:02,874 : INFO : test_checkButtons : Clicked on Add Element. Current count= 19
+2021-02-28 03:12:02,874 : INFO : test_checkButtons : Count for Expected Delete increased to 19
+2021-02-28 03:12:02,908 : INFO : test_checkButtons : Clicked on Add Element. Current count= 20
+2021-02-28 03:12:02,908 : INFO : test_checkButtons : Count for Expected Delete increased to 20
+2021-02-28 03:12:02,938 : INFO : test_checkButtons : Clicked on Add Element. Current count= 21
+2021-02-28 03:12:02,938 : INFO : test_checkButtons : Count for Expected Delete increased to 21
+2021-02-28 03:12:02,976 : INFO : test_checkButtons : Clicked on Add Element. Current count= 22
+2021-02-28 03:12:02,976 : INFO : test_checkButtons : Count for Expected Delete increased to 22
+2021-02-28 03:12:03,013 : INFO : test_checkButtons : Clicked on Add Element. Current count= 23
+2021-02-28 03:12:03,013 : INFO : test_checkButtons : Count for Expected Delete increased to 23
+2021-02-28 03:12:03,049 : INFO : test_checkButtons : Clicked on Add Element. Current count= 24
+2021-02-28 03:12:03,049 : INFO : test_checkButtons : Count for Expected Delete increased to 24
+2021-02-28 03:12:03,081 : INFO : test_checkButtons : Clicked on Add Element. Current count= 25
+2021-02-28 03:12:03,081 : INFO : test_checkButtons : Count for Expected Delete increased to 25
+2021-02-28 03:12:03,111 : INFO : test_checkButtons : Clicked on Add Element. Current count= 26
+2021-02-28 03:12:03,111 : INFO : test_checkButtons : Count for Expected Delete increased to 26
+2021-02-28 03:12:03,152 : INFO : test_checkButtons : Clicked on Add Element. Current count= 27
+2021-02-28 03:12:03,152 : INFO : test_checkButtons : Count for Expected Delete increased to 27
+2021-02-28 03:12:03,188 : INFO : test_checkButtons : Clicked on Add Element. Current count= 28
+2021-02-28 03:12:03,189 : INFO : test_checkButtons : Count for Expected Delete increased to 28
+2021-02-28 03:12:03,225 : INFO : test_checkButtons : Clicked on Add Element. Current count= 29
+2021-02-28 03:12:03,226 : INFO : test_checkButtons : Count for Expected Delete increased to 29
+2021-02-28 03:12:03,258 : INFO : test_checkButtons : Clicked on Add Element. Current count= 30
+2021-02-28 03:12:03,258 : INFO : test_checkButtons : Count for Expected Delete increased to 30
+2021-02-28 03:12:03,292 : INFO : test_checkButtons : Clicked on Add Element. Current count= 31
+2021-02-28 03:12:03,292 : INFO : test_checkButtons : Count for Expected Delete increased to 31
+2021-02-28 03:12:03,323 : INFO : test_checkButtons : Clicked on Add Element. Current count= 32
+2021-02-28 03:12:03,324 : INFO : test_checkButtons : Count for Expected Delete increased to 32
+2021-02-28 03:12:03,355 : INFO : test_checkButtons : Clicked on Add Element. Current count= 33
+2021-02-28 03:12:03,356 : INFO : test_checkButtons : Count for Expected Delete increased to 33
+2021-02-28 03:12:03,390 : INFO : test_checkButtons : Clicked on Add Element. Current count= 34
+2021-02-28 03:12:03,390 : INFO : test_checkButtons : Count for Expected Delete increased to 34
+2021-02-28 03:12:03,437 : INFO : test_checkButtons : Clicked on Add Element. Current count= 35
+2021-02-28 03:12:03,437 : INFO : test_checkButtons : Count for Expected Delete increased to 35
+2021-02-28 03:12:03,470 : INFO : test_checkButtons : Clicked on Add Element. Current count= 36
+2021-02-28 03:12:03,471 : INFO : test_checkButtons : Count for Expected Delete increased to 36
+2021-02-28 03:12:03,505 : INFO : test_checkButtons : Clicked on Add Element. Current count= 37
+2021-02-28 03:12:03,505 : INFO : test_checkButtons : Count for Expected Delete increased to 37
+2021-02-28 03:12:03,538 : INFO : test_checkButtons : Clicked on Add Element. Current count= 38
+2021-02-28 03:12:03,538 : INFO : test_checkButtons : Count for Expected Delete increased to 38
+2021-02-28 03:12:03,569 : INFO : test_checkButtons : Clicked on Add Element. Current count= 39
+2021-02-28 03:12:03,569 : INFO : test_checkButtons : Count for Expected Delete increased to 39
+2021-02-28 03:12:03,604 : INFO : test_checkButtons : Clicked on Add Element. Current count= 40
+2021-02-28 03:12:03,604 : INFO : test_checkButtons : Count for Expected Delete increased to 40
+2021-02-28 03:12:03,644 : INFO : test_checkButtons : Clicked on Add Element. Current count= 41
+2021-02-28 03:12:03,644 : INFO : test_checkButtons : Count for Expected Delete increased to 41
+2021-02-28 03:12:03,679 : INFO : test_checkButtons : Clicked on Add Element. Current count= 42
+2021-02-28 03:12:03,679 : INFO : test_checkButtons : Count for Expected Delete increased to 42
+2021-02-28 03:12:03,711 : INFO : test_checkButtons : Clicked on Add Element. Current count= 43
+2021-02-28 03:12:03,711 : INFO : test_checkButtons : Count for Expected Delete increased to 43
+2021-02-28 03:12:03,746 : INFO : test_checkButtons : Clicked on Add Element. Current count= 44
+2021-02-28 03:12:03,746 : INFO : test_checkButtons : Count for Expected Delete increased to 44
+2021-02-28 03:12:03,780 : INFO : test_checkButtons : Clicked on Add Element. Current count= 45
+2021-02-28 03:12:03,780 : INFO : test_checkButtons : Count for Expected Delete increased to 45
+2021-02-28 03:12:03,820 : INFO : test_checkButtons : Clicked on Add Element. Current count= 46
+2021-02-28 03:12:03,820 : INFO : test_checkButtons : Count for Expected Delete increased to 46
+2021-02-28 03:12:03,854 : INFO : test_checkButtons : Clicked on Add Element. Current count= 47
+2021-02-28 03:12:03,854 : INFO : test_checkButtons : Count for Expected Delete increased to 47
+2021-02-28 03:12:03,890 : INFO : test_checkButtons : Clicked on Add Element. Current count= 48
+2021-02-28 03:12:03,890 : INFO : test_checkButtons : Count for Expected Delete increased to 48
+2021-02-28 03:12:03,923 : INFO : test_checkButtons : Clicked on Add Element. Current count= 49
+2021-02-28 03:12:03,923 : INFO : test_checkButtons : Count for Expected Delete increased to 49
+2021-02-28 03:28:30,209 : INFO : test_Add : Here
+2021-02-28 03:28:30,289 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 03:28:30,289 : INFO : test_Add : Count for Expected Delete increased to 1
+2021-02-28 03:28:30,289 : INFO : test_Add : Number of Delete buttons is as Expected
+2021-02-28 03:28:30,327 : INFO : test_Add : Clicked on Add Element. Current count= 2
+2021-02-28 03:28:30,327 : INFO : test_Add : Count for Expected Delete increased to 2
+2021-02-28 03:28:30,366 : INFO : test_Add : Clicked on Add Element. Current count= 3
+2021-02-28 03:28:30,366 : INFO : test_Add : Count for Expected Delete increased to 3
+2021-02-28 03:28:30,401 : INFO : test_Add : Clicked on Add Element. Current count= 4
+2021-02-28 03:28:30,401 : INFO : test_Add : Count for Expected Delete increased to 4
+2021-02-28 03:28:30,435 : INFO : test_Add : Clicked on Add Element. Current count= 5
+2021-02-28 03:28:30,435 : INFO : test_Add : Count for Expected Delete increased to 5
+2021-02-28 03:28:30,471 : INFO : test_Add : Clicked on Add Element. Current count= 6
+2021-02-28 03:28:30,471 : INFO : test_Add : Count for Expected Delete increased to 6
+2021-02-28 03:28:30,505 : INFO : test_Add : Clicked on Add Element. Current count= 7
+2021-02-28 03:28:30,505 : INFO : test_Add : Count for Expected Delete increased to 7
+2021-02-28 03:28:30,540 : INFO : test_Add : Clicked on Add Element. Current count= 8
+2021-02-28 03:28:30,541 : INFO : test_Add : Count for Expected Delete increased to 8
+2021-02-28 03:28:30,570 : INFO : test_Add : Clicked on Add Element. Current count= 9
+2021-02-28 03:28:30,571 : INFO : test_Add : Count for Expected Delete increased to 9
+2021-02-28 03:28:30,602 : INFO : test_Add : Clicked on Add Element. Current count= 10
+2021-02-28 03:28:30,603 : INFO : test_Add : Count for Expected Delete increased to 10
+2021-02-28 03:28:30,636 : INFO : test_Add : Clicked on Add Element. Current count= 11
+2021-02-28 03:28:30,636 : INFO : test_Add : Count for Expected Delete increased to 11
+2021-02-28 03:28:30,666 : INFO : test_Add : Clicked on Add Element. Current count= 12
+2021-02-28 03:28:30,666 : INFO : test_Add : Count for Expected Delete increased to 12
+2021-02-28 03:28:30,692 : INFO : test_Add : Clicked on Add Element. Current count= 13
+2021-02-28 03:28:30,692 : INFO : test_Add : Count for Expected Delete increased to 13
+2021-02-28 03:28:30,732 : INFO : test_Add : Clicked on Add Element. Current count= 14
+2021-02-28 03:28:30,732 : INFO : test_Add : Count for Expected Delete increased to 14
+2021-02-28 03:28:30,761 : INFO : test_Add : Clicked on Add Element. Current count= 15
+2021-02-28 03:28:30,761 : INFO : test_Add : Count for Expected Delete increased to 15
+2021-02-28 03:28:30,792 : INFO : test_Add : Clicked on Add Element. Current count= 16
+2021-02-28 03:28:30,793 : INFO : test_Add : Count for Expected Delete increased to 16
+2021-02-28 03:28:30,821 : INFO : test_Add : Clicked on Add Element. Current count= 17
+2021-02-28 03:28:30,821 : INFO : test_Add : Count for Expected Delete increased to 17
+2021-02-28 03:28:30,853 : INFO : test_Add : Clicked on Add Element. Current count= 18
+2021-02-28 03:28:30,854 : INFO : test_Add : Count for Expected Delete increased to 18
+2021-02-28 03:28:30,887 : INFO : test_Add : Clicked on Add Element. Current count= 19
+2021-02-28 03:28:30,887 : INFO : test_Add : Count for Expected Delete increased to 19
+2021-02-28 03:28:30,917 : INFO : test_Add : Clicked on Add Element. Current count= 20
+2021-02-28 03:28:30,917 : INFO : test_Add : Count for Expected Delete increased to 20
+2021-02-28 03:28:30,944 : INFO : test_Add : Clicked on Add Element. Current count= 21
+2021-02-28 03:28:30,945 : INFO : test_Add : Count for Expected Delete increased to 21
+2021-02-28 03:28:30,974 : INFO : test_Add : Clicked on Add Element. Current count= 22
+2021-02-28 03:28:30,974 : INFO : test_Add : Count for Expected Delete increased to 22
+2021-02-28 03:28:31,005 : INFO : test_Add : Clicked on Add Element. Current count= 23
+2021-02-28 03:28:31,005 : INFO : test_Add : Count for Expected Delete increased to 23
+2021-02-28 03:28:31,048 : INFO : test_Add : Clicked on Add Element. Current count= 24
+2021-02-28 03:28:31,049 : INFO : test_Add : Count for Expected Delete increased to 24
+2021-02-28 03:28:31,086 : INFO : test_Add : Clicked on Add Element. Current count= 25
+2021-02-28 03:28:31,086 : INFO : test_Add : Count for Expected Delete increased to 25
+2021-02-28 03:28:31,118 : INFO : test_Add : Clicked on Add Element. Current count= 26
+2021-02-28 03:28:31,118 : INFO : test_Add : Count for Expected Delete increased to 26
+2021-02-28 03:28:31,155 : INFO : test_Add : Clicked on Add Element. Current count= 27
+2021-02-28 03:28:31,155 : INFO : test_Add : Count for Expected Delete increased to 27
+2021-02-28 03:28:31,187 : INFO : test_Add : Clicked on Add Element. Current count= 28
+2021-02-28 03:28:31,188 : INFO : test_Add : Count for Expected Delete increased to 28
+2021-02-28 03:28:31,221 : INFO : test_Add : Clicked on Add Element. Current count= 29
+2021-02-28 03:28:31,221 : INFO : test_Add : Count for Expected Delete increased to 29
+2021-02-28 03:28:31,251 : INFO : test_Add : Clicked on Add Element. Current count= 30
+2021-02-28 03:28:31,251 : INFO : test_Add : Count for Expected Delete increased to 30
+2021-02-28 03:28:31,288 : INFO : test_Add : Clicked on Add Element. Current count= 31
+2021-02-28 03:28:31,288 : INFO : test_Add : Count for Expected Delete increased to 31
+2021-02-28 03:28:31,318 : INFO : test_Add : Clicked on Add Element. Current count= 32
+2021-02-28 03:28:31,318 : INFO : test_Add : Count for Expected Delete increased to 32
+2021-02-28 03:28:31,351 : INFO : test_Add : Clicked on Add Element. Current count= 33
+2021-02-28 03:28:31,351 : INFO : test_Add : Count for Expected Delete increased to 33
+2021-02-28 03:28:31,376 : INFO : test_Add : Clicked on Add Element. Current count= 34
+2021-02-28 03:28:31,377 : INFO : test_Add : Count for Expected Delete increased to 34
+2021-02-28 03:28:31,408 : INFO : test_Add : Clicked on Add Element. Current count= 35
+2021-02-28 03:28:31,409 : INFO : test_Add : Count for Expected Delete increased to 35
+2021-02-28 03:28:31,436 : INFO : test_Add : Clicked on Add Element. Current count= 36
+2021-02-28 03:28:31,436 : INFO : test_Add : Count for Expected Delete increased to 36
+2021-02-28 03:28:31,470 : INFO : test_Add : Clicked on Add Element. Current count= 37
+2021-02-28 03:28:31,470 : INFO : test_Add : Count for Expected Delete increased to 37
+2021-02-28 03:28:31,525 : INFO : test_Add : Clicked on Add Element. Current count= 38
+2021-02-28 03:28:31,525 : INFO : test_Add : Count for Expected Delete increased to 38
+2021-02-28 03:28:31,573 : INFO : test_Add : Clicked on Add Element. Current count= 39
+2021-02-28 03:28:31,573 : INFO : test_Add : Count for Expected Delete increased to 39
+2021-02-28 03:28:31,621 : INFO : test_Add : Clicked on Add Element. Current count= 40
+2021-02-28 03:28:31,621 : INFO : test_Add : Count for Expected Delete increased to 40
+2021-02-28 03:28:31,666 : INFO : test_Add : Clicked on Add Element. Current count= 41
+2021-02-28 03:28:31,666 : INFO : test_Add : Count for Expected Delete increased to 41
+2021-02-28 03:28:31,696 : INFO : test_Add : Clicked on Add Element. Current count= 42
+2021-02-28 03:28:31,696 : INFO : test_Add : Count for Expected Delete increased to 42
+2021-02-28 03:28:31,732 : INFO : test_Add : Clicked on Add Element. Current count= 43
+2021-02-28 03:28:31,732 : INFO : test_Add : Count for Expected Delete increased to 43
+2021-02-28 03:28:31,760 : INFO : test_Add : Clicked on Add Element. Current count= 44
+2021-02-28 03:28:31,761 : INFO : test_Add : Count for Expected Delete increased to 44
+2021-02-28 03:28:31,790 : INFO : test_Add : Clicked on Add Element. Current count= 45
+2021-02-28 03:28:31,790 : INFO : test_Add : Count for Expected Delete increased to 45
+2021-02-28 03:28:31,821 : INFO : test_Add : Clicked on Add Element. Current count= 46
+2021-02-28 03:28:31,821 : INFO : test_Add : Count for Expected Delete increased to 46
+2021-02-28 03:28:31,850 : INFO : test_Add : Clicked on Add Element. Current count= 47
+2021-02-28 03:28:31,851 : INFO : test_Add : Count for Expected Delete increased to 47
+2021-02-28 03:28:31,884 : INFO : test_Add : Clicked on Add Element. Current count= 48
+2021-02-28 03:28:31,884 : INFO : test_Add : Count for Expected Delete increased to 48
+2021-02-28 03:28:31,913 : INFO : test_Add : Clicked on Add Element. Current count= 49
+2021-02-28 03:28:31,913 : INFO : test_Add : Count for Expected Delete increased to 49
+2021-02-28 03:43:21,021 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 03:43:21,022 : ERROR : test_Add : (<class 'NameError'>, NameError("name 'countDelete' is not defined"), <traceback object at 0x0000020DEF3F9B80>)
+2021-02-28 03:43:29,182 : ERROR : test_deleteButtonWork : (<class 'AttributeError'>, AttributeError("'TestAddRemoveElements' object has no attribute 'deleteNumber'"), <traceback object at 0x0000020DEF4CD8C0>)
+2021-02-28 03:47:48,244 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 03:47:48,245 : ERROR : test_Add : (<class 'NameError'>, NameError("name 'countDelete' is not defined"), <traceback object at 0x000001BD7ADF4DC0>)
+2021-02-28 03:49:47,397 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 03:49:47,397 : INFO : test_Add : Count for Expected Delete increased to 1
+2021-02-28 03:49:47,459 : INFO : test_Add : Clicked on Add Element. Current count= 2
+2021-02-28 03:49:47,460 : INFO : test_Add : Count for Expected Delete increased to 2
+2021-02-28 03:49:47,501 : INFO : test_Add : Clicked on Add Element. Current count= 3
+2021-02-28 03:49:47,501 : INFO : test_Add : Count for Expected Delete increased to 3
+2021-02-28 03:49:47,533 : INFO : test_Add : Clicked on Add Element. Current count= 4
+2021-02-28 03:49:47,534 : INFO : test_Add : Count for Expected Delete increased to 4
+2021-02-28 03:49:47,565 : INFO : test_Add : Clicked on Add Element. Current count= 5
+2021-02-28 03:49:47,565 : INFO : test_Add : Count for Expected Delete increased to 5
+2021-02-28 03:49:47,600 : INFO : test_Add : Clicked on Add Element. Current count= 6
+2021-02-28 03:49:47,601 : INFO : test_Add : Count for Expected Delete increased to 6
+2021-02-28 03:49:47,634 : INFO : test_Add : Clicked on Add Element. Current count= 7
+2021-02-28 03:49:47,634 : INFO : test_Add : Count for Expected Delete increased to 7
+2021-02-28 03:49:47,667 : INFO : test_Add : Clicked on Add Element. Current count= 8
+2021-02-28 03:49:47,667 : INFO : test_Add : Count for Expected Delete increased to 8
+2021-02-28 03:49:47,704 : INFO : test_Add : Clicked on Add Element. Current count= 9
+2021-02-28 03:49:47,704 : INFO : test_Add : Count for Expected Delete increased to 9
+2021-02-28 03:49:47,731 : INFO : test_Add : Clicked on Add Element. Current count= 10
+2021-02-28 03:49:47,731 : INFO : test_Add : Count for Expected Delete increased to 10
+2021-02-28 03:49:47,761 : INFO : test_Add : Clicked on Add Element. Current count= 11
+2021-02-28 03:49:47,761 : INFO : test_Add : Count for Expected Delete increased to 11
+2021-02-28 03:49:47,793 : INFO : test_Add : Clicked on Add Element. Current count= 12
+2021-02-28 03:49:47,794 : INFO : test_Add : Count for Expected Delete increased to 12
+2021-02-28 03:49:47,825 : INFO : test_Add : Clicked on Add Element. Current count= 13
+2021-02-28 03:49:47,825 : INFO : test_Add : Count for Expected Delete increased to 13
+2021-02-28 03:49:47,851 : INFO : test_Add : Clicked on Add Element. Current count= 14
+2021-02-28 03:49:47,852 : INFO : test_Add : Count for Expected Delete increased to 14
+2021-02-28 03:49:47,881 : INFO : test_Add : Clicked on Add Element. Current count= 15
+2021-02-28 03:49:47,881 : INFO : test_Add : Count for Expected Delete increased to 15
+2021-02-28 03:49:47,915 : INFO : test_Add : Clicked on Add Element. Current count= 16
+2021-02-28 03:49:47,915 : INFO : test_Add : Count for Expected Delete increased to 16
+2021-02-28 03:49:47,949 : INFO : test_Add : Clicked on Add Element. Current count= 17
+2021-02-28 03:49:47,949 : INFO : test_Add : Count for Expected Delete increased to 17
+2021-02-28 03:49:47,982 : INFO : test_Add : Clicked on Add Element. Current count= 18
+2021-02-28 03:49:47,982 : INFO : test_Add : Count for Expected Delete increased to 18
+2021-02-28 03:49:48,013 : INFO : test_Add : Clicked on Add Element. Current count= 19
+2021-02-28 03:49:48,013 : INFO : test_Add : Count for Expected Delete increased to 19
+2021-02-28 03:49:48,047 : INFO : test_Add : Clicked on Add Element. Current count= 20
+2021-02-28 03:49:48,047 : INFO : test_Add : Count for Expected Delete increased to 20
+2021-02-28 03:49:48,085 : INFO : test_Add : Clicked on Add Element. Current count= 21
+2021-02-28 03:49:48,085 : INFO : test_Add : Count for Expected Delete increased to 21
+2021-02-28 03:49:48,119 : INFO : test_Add : Clicked on Add Element. Current count= 22
+2021-02-28 03:49:48,120 : INFO : test_Add : Count for Expected Delete increased to 22
+2021-02-28 03:49:48,150 : INFO : test_Add : Clicked on Add Element. Current count= 23
+2021-02-28 03:49:48,150 : INFO : test_Add : Count for Expected Delete increased to 23
+2021-02-28 03:49:48,183 : INFO : test_Add : Clicked on Add Element. Current count= 24
+2021-02-28 03:49:48,183 : INFO : test_Add : Count for Expected Delete increased to 24
+2021-02-28 03:49:48,216 : INFO : test_Add : Clicked on Add Element. Current count= 25
+2021-02-28 03:49:48,216 : INFO : test_Add : Count for Expected Delete increased to 25
+2021-02-28 03:49:48,248 : INFO : test_Add : Clicked on Add Element. Current count= 26
+2021-02-28 03:49:48,248 : INFO : test_Add : Count for Expected Delete increased to 26
+2021-02-28 03:49:48,282 : INFO : test_Add : Clicked on Add Element. Current count= 27
+2021-02-28 03:49:48,282 : INFO : test_Add : Count for Expected Delete increased to 27
+2021-02-28 03:49:48,312 : INFO : test_Add : Clicked on Add Element. Current count= 28
+2021-02-28 03:49:48,312 : INFO : test_Add : Count for Expected Delete increased to 28
+2021-02-28 03:49:48,344 : INFO : test_Add : Clicked on Add Element. Current count= 29
+2021-02-28 03:49:48,345 : INFO : test_Add : Count for Expected Delete increased to 29
+2021-02-28 03:49:48,385 : INFO : test_Add : Clicked on Add Element. Current count= 30
+2021-02-28 03:49:48,385 : INFO : test_Add : Count for Expected Delete increased to 30
+2021-02-28 03:49:48,418 : INFO : test_Add : Clicked on Add Element. Current count= 31
+2021-02-28 03:49:48,418 : INFO : test_Add : Count for Expected Delete increased to 31
+2021-02-28 03:49:48,451 : INFO : test_Add : Clicked on Add Element. Current count= 32
+2021-02-28 03:49:48,451 : INFO : test_Add : Count for Expected Delete increased to 32
+2021-02-28 03:49:48,482 : INFO : test_Add : Clicked on Add Element. Current count= 33
+2021-02-28 03:49:48,482 : INFO : test_Add : Count for Expected Delete increased to 33
+2021-02-28 03:49:48,549 : INFO : test_Add : Clicked on Add Element. Current count= 34
+2021-02-28 03:49:48,549 : INFO : test_Add : Count for Expected Delete increased to 34
+2021-02-28 03:49:48,588 : INFO : test_Add : Clicked on Add Element. Current count= 35
+2021-02-28 03:49:48,588 : INFO : test_Add : Count for Expected Delete increased to 35
+2021-02-28 03:49:48,730 : INFO : test_Add : Clicked on Add Element. Current count= 36
+2021-02-28 03:49:48,730 : INFO : test_Add : Count for Expected Delete increased to 36
+2021-02-28 03:49:48,777 : INFO : test_Add : Clicked on Add Element. Current count= 37
+2021-02-28 03:49:48,777 : INFO : test_Add : Count for Expected Delete increased to 37
+2021-02-28 03:49:48,813 : INFO : test_Add : Clicked on Add Element. Current count= 38
+2021-02-28 03:49:48,813 : INFO : test_Add : Count for Expected Delete increased to 38
+2021-02-28 03:49:48,851 : INFO : test_Add : Clicked on Add Element. Current count= 39
+2021-02-28 03:49:48,852 : INFO : test_Add : Count for Expected Delete increased to 39
+2021-02-28 03:49:48,882 : INFO : test_Add : Clicked on Add Element. Current count= 40
+2021-02-28 03:49:48,882 : INFO : test_Add : Count for Expected Delete increased to 40
+2021-02-28 03:49:48,911 : INFO : test_Add : Clicked on Add Element. Current count= 41
+2021-02-28 03:49:48,912 : INFO : test_Add : Count for Expected Delete increased to 41
+2021-02-28 03:49:48,938 : INFO : test_Add : Clicked on Add Element. Current count= 42
+2021-02-28 03:49:48,938 : INFO : test_Add : Count for Expected Delete increased to 42
+2021-02-28 03:49:48,972 : INFO : test_Add : Clicked on Add Element. Current count= 43
+2021-02-28 03:49:48,973 : INFO : test_Add : Count for Expected Delete increased to 43
+2021-02-28 03:49:49,011 : INFO : test_Add : Clicked on Add Element. Current count= 44
+2021-02-28 03:49:49,011 : INFO : test_Add : Count for Expected Delete increased to 44
+2021-02-28 03:49:49,041 : INFO : test_Add : Clicked on Add Element. Current count= 45
+2021-02-28 03:49:49,041 : INFO : test_Add : Count for Expected Delete increased to 45
+2021-02-28 03:49:49,069 : INFO : test_Add : Clicked on Add Element. Current count= 46
+2021-02-28 03:49:49,069 : INFO : test_Add : Count for Expected Delete increased to 46
+2021-02-28 03:49:49,098 : INFO : test_Add : Clicked on Add Element. Current count= 47
+2021-02-28 03:49:49,098 : INFO : test_Add : Count for Expected Delete increased to 47
+2021-02-28 03:49:49,127 : INFO : test_Add : Clicked on Add Element. Current count= 48
+2021-02-28 03:49:49,127 : INFO : test_Add : Count for Expected Delete increased to 48
+2021-02-28 03:49:49,156 : INFO : test_Add : Clicked on Add Element. Current count= 49
+2021-02-28 03:49:49,157 : INFO : test_Add : Count for Expected Delete increased to 49
+2021-02-28 03:52:14,709 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 03:52:14,709 : INFO : test_Add : Count for Expected Delete increased to 1
+2021-02-28 03:52:14,756 : INFO : test_Add : Clicked on Add Element. Current count= 2
+2021-02-28 03:52:14,756 : INFO : test_Add : Count for Expected Delete increased to 2
+2021-02-28 03:52:14,794 : INFO : test_Add : Clicked on Add Element. Current count= 3
+2021-02-28 03:52:14,794 : INFO : test_Add : Count for Expected Delete increased to 3
+2021-02-28 03:52:14,823 : INFO : test_Add : Clicked on Add Element. Current count= 4
+2021-02-28 03:52:14,824 : INFO : test_Add : Count for Expected Delete increased to 4
+2021-02-28 03:52:14,858 : INFO : test_Add : Clicked on Add Element. Current count= 5
+2021-02-28 03:52:14,859 : INFO : test_Add : Count for Expected Delete increased to 5
+2021-02-28 03:52:14,894 : INFO : test_Add : Clicked on Add Element. Current count= 6
+2021-02-28 03:52:14,894 : INFO : test_Add : Count for Expected Delete increased to 6
+2021-02-28 03:52:14,927 : INFO : test_Add : Clicked on Add Element. Current count= 7
+2021-02-28 03:52:14,927 : INFO : test_Add : Count for Expected Delete increased to 7
+2021-02-28 03:52:14,964 : INFO : test_Add : Clicked on Add Element. Current count= 8
+2021-02-28 03:52:14,965 : INFO : test_Add : Count for Expected Delete increased to 8
+2021-02-28 03:52:14,997 : INFO : test_Add : Clicked on Add Element. Current count= 9
+2021-02-28 03:52:14,997 : INFO : test_Add : Count for Expected Delete increased to 9
+2021-02-28 03:52:15,029 : INFO : test_Add : Clicked on Add Element. Current count= 10
+2021-02-28 03:52:15,029 : INFO : test_Add : Count for Expected Delete increased to 10
+2021-02-28 03:52:15,069 : INFO : test_Add : Clicked on Add Element. Current count= 11
+2021-02-28 03:52:15,070 : INFO : test_Add : Count for Expected Delete increased to 11
+2021-02-28 03:52:15,098 : INFO : test_Add : Clicked on Add Element. Current count= 12
+2021-02-28 03:52:15,099 : INFO : test_Add : Count for Expected Delete increased to 12
+2021-02-28 03:52:15,130 : INFO : test_Add : Clicked on Add Element. Current count= 13
+2021-02-28 03:52:15,130 : INFO : test_Add : Count for Expected Delete increased to 13
+2021-02-28 03:52:15,160 : INFO : test_Add : Clicked on Add Element. Current count= 14
+2021-02-28 03:52:15,160 : INFO : test_Add : Count for Expected Delete increased to 14
+2021-02-28 03:52:15,192 : INFO : test_Add : Clicked on Add Element. Current count= 15
+2021-02-28 03:52:15,193 : INFO : test_Add : Count for Expected Delete increased to 15
+2021-02-28 03:52:15,225 : INFO : test_Add : Clicked on Add Element. Current count= 16
+2021-02-28 03:52:15,225 : INFO : test_Add : Count for Expected Delete increased to 16
+2021-02-28 03:52:15,257 : INFO : test_Add : Clicked on Add Element. Current count= 17
+2021-02-28 03:52:15,258 : INFO : test_Add : Count for Expected Delete increased to 17
+2021-02-28 03:52:15,289 : INFO : test_Add : Clicked on Add Element. Current count= 18
+2021-02-28 03:52:15,289 : INFO : test_Add : Count for Expected Delete increased to 18
+2021-02-28 03:52:15,320 : INFO : test_Add : Clicked on Add Element. Current count= 19
+2021-02-28 03:52:15,320 : INFO : test_Add : Count for Expected Delete increased to 19
+2021-02-28 03:52:15,353 : INFO : test_Add : Clicked on Add Element. Current count= 20
+2021-02-28 03:52:15,354 : INFO : test_Add : Count for Expected Delete increased to 20
+2021-02-28 03:52:15,390 : INFO : test_Add : Clicked on Add Element. Current count= 21
+2021-02-28 03:52:15,390 : INFO : test_Add : Count for Expected Delete increased to 21
+2021-02-28 03:52:15,423 : INFO : test_Add : Clicked on Add Element. Current count= 22
+2021-02-28 03:52:15,423 : INFO : test_Add : Count for Expected Delete increased to 22
+2021-02-28 03:52:15,455 : INFO : test_Add : Clicked on Add Element. Current count= 23
+2021-02-28 03:52:15,455 : INFO : test_Add : Count for Expected Delete increased to 23
+2021-02-28 03:52:15,487 : INFO : test_Add : Clicked on Add Element. Current count= 24
+2021-02-28 03:52:15,487 : INFO : test_Add : Count for Expected Delete increased to 24
+2021-02-28 03:52:15,515 : INFO : test_Add : Clicked on Add Element. Current count= 25
+2021-02-28 03:52:15,515 : INFO : test_Add : Count for Expected Delete increased to 25
+2021-02-28 03:52:15,554 : INFO : test_Add : Clicked on Add Element. Current count= 26
+2021-02-28 03:52:15,554 : INFO : test_Add : Count for Expected Delete increased to 26
+2021-02-28 03:52:15,583 : INFO : test_Add : Clicked on Add Element. Current count= 27
+2021-02-28 03:52:15,584 : INFO : test_Add : Count for Expected Delete increased to 27
+2021-02-28 03:52:15,613 : INFO : test_Add : Clicked on Add Element. Current count= 28
+2021-02-28 03:52:15,614 : INFO : test_Add : Count for Expected Delete increased to 28
+2021-02-28 03:52:15,648 : INFO : test_Add : Clicked on Add Element. Current count= 29
+2021-02-28 03:52:15,649 : INFO : test_Add : Count for Expected Delete increased to 29
+2021-02-28 03:52:15,679 : INFO : test_Add : Clicked on Add Element. Current count= 30
+2021-02-28 03:52:15,679 : INFO : test_Add : Count for Expected Delete increased to 30
+2021-02-28 03:52:15,712 : INFO : test_Add : Clicked on Add Element. Current count= 31
+2021-02-28 03:52:15,712 : INFO : test_Add : Count for Expected Delete increased to 31
+2021-02-28 03:52:15,744 : INFO : test_Add : Clicked on Add Element. Current count= 32
+2021-02-28 03:52:15,744 : INFO : test_Add : Count for Expected Delete increased to 32
+2021-02-28 03:52:15,773 : INFO : test_Add : Clicked on Add Element. Current count= 33
+2021-02-28 03:52:15,773 : INFO : test_Add : Count for Expected Delete increased to 33
+2021-02-28 03:52:15,804 : INFO : test_Add : Clicked on Add Element. Current count= 34
+2021-02-28 03:52:15,805 : INFO : test_Add : Count for Expected Delete increased to 34
+2021-02-28 03:52:15,837 : INFO : test_Add : Clicked on Add Element. Current count= 35
+2021-02-28 03:52:15,838 : INFO : test_Add : Count for Expected Delete increased to 35
+2021-02-28 03:52:15,870 : INFO : test_Add : Clicked on Add Element. Current count= 36
+2021-02-28 03:52:15,870 : INFO : test_Add : Count for Expected Delete increased to 36
+2021-02-28 03:52:15,904 : INFO : test_Add : Clicked on Add Element. Current count= 37
+2021-02-28 03:52:15,904 : INFO : test_Add : Count for Expected Delete increased to 37
+2021-02-28 03:52:15,956 : INFO : test_Add : Clicked on Add Element. Current count= 38
+2021-02-28 03:52:15,956 : INFO : test_Add : Count for Expected Delete increased to 38
+2021-02-28 03:52:15,989 : INFO : test_Add : Clicked on Add Element. Current count= 39
+2021-02-28 03:52:15,989 : INFO : test_Add : Count for Expected Delete increased to 39
+2021-02-28 03:52:16,023 : INFO : test_Add : Clicked on Add Element. Current count= 40
+2021-02-28 03:52:16,023 : INFO : test_Add : Count for Expected Delete increased to 40
+2021-02-28 03:52:16,053 : INFO : test_Add : Clicked on Add Element. Current count= 41
+2021-02-28 03:52:16,054 : INFO : test_Add : Count for Expected Delete increased to 41
+2021-02-28 03:52:16,087 : INFO : test_Add : Clicked on Add Element. Current count= 42
+2021-02-28 03:52:16,088 : INFO : test_Add : Count for Expected Delete increased to 42
+2021-02-28 03:52:16,114 : INFO : test_Add : Clicked on Add Element. Current count= 43
+2021-02-28 03:52:16,114 : INFO : test_Add : Count for Expected Delete increased to 43
+2021-02-28 03:52:16,150 : INFO : test_Add : Clicked on Add Element. Current count= 44
+2021-02-28 03:52:16,151 : INFO : test_Add : Count for Expected Delete increased to 44
+2021-02-28 03:52:16,180 : INFO : test_Add : Clicked on Add Element. Current count= 45
+2021-02-28 03:52:16,180 : INFO : test_Add : Count for Expected Delete increased to 45
+2021-02-28 03:52:16,211 : INFO : test_Add : Clicked on Add Element. Current count= 46
+2021-02-28 03:52:16,211 : INFO : test_Add : Count for Expected Delete increased to 46
+2021-02-28 03:52:16,243 : INFO : test_Add : Clicked on Add Element. Current count= 47
+2021-02-28 03:52:16,244 : INFO : test_Add : Count for Expected Delete increased to 47
+2021-02-28 03:52:16,279 : INFO : test_Add : Clicked on Add Element. Current count= 48
+2021-02-28 03:52:16,279 : INFO : test_Add : Count for Expected Delete increased to 48
+2021-02-28 03:52:16,309 : INFO : test_Add : Clicked on Add Element. Current count= 49
+2021-02-28 03:52:16,310 : INFO : test_Add : Count for Expected Delete increased to 49
+2021-02-28 04:00:51,266 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 04:00:51,266 : INFO : test_Add : Count for Expected Delete increased to 1
+2021-02-28 04:00:51,299 : INFO : test_Add : Clicked on Add Element. Current count= 2
+2021-02-28 04:00:51,300 : INFO : test_Add : Count for Expected Delete increased to 2
+2021-02-28 04:00:51,330 : INFO : test_Add : Clicked on Add Element. Current count= 3
+2021-02-28 04:00:51,330 : INFO : test_Add : Count for Expected Delete increased to 3
+2021-02-28 04:00:51,361 : INFO : test_Add : Clicked on Add Element. Current count= 4
+2021-02-28 04:00:51,361 : INFO : test_Add : Count for Expected Delete increased to 4
+2021-02-28 04:00:51,393 : INFO : test_Add : Clicked on Add Element. Current count= 5
+2021-02-28 04:00:51,394 : INFO : test_Add : Count for Expected Delete increased to 5
+2021-02-28 04:00:51,425 : INFO : test_Add : Clicked on Add Element. Current count= 6
+2021-02-28 04:00:51,425 : INFO : test_Add : Count for Expected Delete increased to 6
+2021-02-28 04:00:51,457 : INFO : test_Add : Clicked on Add Element. Current count= 7
+2021-02-28 04:00:51,457 : INFO : test_Add : Count for Expected Delete increased to 7
+2021-02-28 04:00:51,491 : INFO : test_Add : Clicked on Add Element. Current count= 8
+2021-02-28 04:00:51,491 : INFO : test_Add : Count for Expected Delete increased to 8
+2021-02-28 04:00:51,527 : INFO : test_Add : Clicked on Add Element. Current count= 9
+2021-02-28 04:00:51,527 : INFO : test_Add : Count for Expected Delete increased to 9
+2021-02-28 04:00:51,561 : INFO : test_Add : Clicked on Add Element. Current count= 10
+2021-02-28 04:00:51,561 : INFO : test_Add : Count for Expected Delete increased to 10
+2021-02-28 04:00:51,592 : INFO : test_Add : Clicked on Add Element. Current count= 11
+2021-02-28 04:00:51,593 : INFO : test_Add : Count for Expected Delete increased to 11
+2021-02-28 04:00:51,625 : INFO : test_Add : Clicked on Add Element. Current count= 12
+2021-02-28 04:00:51,626 : INFO : test_Add : Count for Expected Delete increased to 12
+2021-02-28 04:00:51,656 : INFO : test_Add : Clicked on Add Element. Current count= 13
+2021-02-28 04:00:51,657 : INFO : test_Add : Count for Expected Delete increased to 13
+2021-02-28 04:00:51,686 : INFO : test_Add : Clicked on Add Element. Current count= 14
+2021-02-28 04:00:51,686 : INFO : test_Add : Count for Expected Delete increased to 14
+2021-02-28 04:00:51,724 : INFO : test_Add : Clicked on Add Element. Current count= 15
+2021-02-28 04:00:51,724 : INFO : test_Add : Count for Expected Delete increased to 15
+2021-02-28 04:00:51,764 : INFO : test_Add : Clicked on Add Element. Current count= 16
+2021-02-28 04:00:51,765 : INFO : test_Add : Count for Expected Delete increased to 16
+2021-02-28 04:00:51,796 : INFO : test_Add : Clicked on Add Element. Current count= 17
+2021-02-28 04:00:51,796 : INFO : test_Add : Count for Expected Delete increased to 17
+2021-02-28 04:00:51,826 : INFO : test_Add : Clicked on Add Element. Current count= 18
+2021-02-28 04:00:51,826 : INFO : test_Add : Count for Expected Delete increased to 18
+2021-02-28 04:00:51,857 : INFO : test_Add : Clicked on Add Element. Current count= 19
+2021-02-28 04:00:51,858 : INFO : test_Add : Count for Expected Delete increased to 19
+2021-02-28 04:00:51,891 : INFO : test_Add : Clicked on Add Element. Current count= 20
+2021-02-28 04:00:51,891 : INFO : test_Add : Count for Expected Delete increased to 20
+2021-02-28 04:00:51,923 : INFO : test_Add : Clicked on Add Element. Current count= 21
+2021-02-28 04:00:51,924 : INFO : test_Add : Count for Expected Delete increased to 21
+2021-02-28 04:00:51,957 : INFO : test_Add : Clicked on Add Element. Current count= 22
+2021-02-28 04:00:51,957 : INFO : test_Add : Count for Expected Delete increased to 22
+2021-02-28 04:00:51,989 : INFO : test_Add : Clicked on Add Element. Current count= 23
+2021-02-28 04:00:51,990 : INFO : test_Add : Count for Expected Delete increased to 23
+2021-02-28 04:00:52,021 : INFO : test_Add : Clicked on Add Element. Current count= 24
+2021-02-28 04:00:52,022 : INFO : test_Add : Count for Expected Delete increased to 24
+2021-02-28 04:00:52,064 : INFO : test_Add : Clicked on Add Element. Current count= 25
+2021-02-28 04:00:52,065 : INFO : test_Add : Count for Expected Delete increased to 25
+2021-02-28 04:00:52,097 : INFO : test_Add : Clicked on Add Element. Current count= 26
+2021-02-28 04:00:52,097 : INFO : test_Add : Count for Expected Delete increased to 26
+2021-02-28 04:00:52,130 : INFO : test_Add : Clicked on Add Element. Current count= 27
+2021-02-28 04:00:52,131 : INFO : test_Add : Count for Expected Delete increased to 27
+2021-02-28 04:00:52,164 : INFO : test_Add : Clicked on Add Element. Current count= 28
+2021-02-28 04:00:52,164 : INFO : test_Add : Count for Expected Delete increased to 28
+2021-02-28 04:00:52,200 : INFO : test_Add : Clicked on Add Element. Current count= 29
+2021-02-28 04:00:52,200 : INFO : test_Add : Count for Expected Delete increased to 29
+2021-02-28 04:00:52,228 : INFO : test_Add : Clicked on Add Element. Current count= 30
+2021-02-28 04:00:52,228 : INFO : test_Add : Count for Expected Delete increased to 30
+2021-02-28 04:00:52,259 : INFO : test_Add : Clicked on Add Element. Current count= 31
+2021-02-28 04:00:52,259 : INFO : test_Add : Count for Expected Delete increased to 31
+2021-02-28 04:00:52,289 : INFO : test_Add : Clicked on Add Element. Current count= 32
+2021-02-28 04:00:52,289 : INFO : test_Add : Count for Expected Delete increased to 32
+2021-02-28 04:00:52,314 : INFO : test_Add : Clicked on Add Element. Current count= 33
+2021-02-28 04:00:52,315 : INFO : test_Add : Count for Expected Delete increased to 33
+2021-02-28 04:00:52,342 : INFO : test_Add : Clicked on Add Element. Current count= 34
+2021-02-28 04:00:52,342 : INFO : test_Add : Count for Expected Delete increased to 34
+2021-02-28 04:00:52,373 : INFO : test_Add : Clicked on Add Element. Current count= 35
+2021-02-28 04:00:52,373 : INFO : test_Add : Count for Expected Delete increased to 35
+2021-02-28 04:00:52,398 : INFO : test_Add : Clicked on Add Element. Current count= 36
+2021-02-28 04:00:52,398 : INFO : test_Add : Count for Expected Delete increased to 36
+2021-02-28 04:00:52,425 : INFO : test_Add : Clicked on Add Element. Current count= 37
+2021-02-28 04:00:52,425 : INFO : test_Add : Count for Expected Delete increased to 37
+2021-02-28 04:00:52,450 : INFO : test_Add : Clicked on Add Element. Current count= 38
+2021-02-28 04:00:52,451 : INFO : test_Add : Count for Expected Delete increased to 38
+2021-02-28 04:00:52,481 : INFO : test_Add : Clicked on Add Element. Current count= 39
+2021-02-28 04:00:52,481 : INFO : test_Add : Count for Expected Delete increased to 39
+2021-02-28 04:00:52,509 : INFO : test_Add : Clicked on Add Element. Current count= 40
+2021-02-28 04:00:52,509 : INFO : test_Add : Count for Expected Delete increased to 40
+2021-02-28 04:00:52,538 : INFO : test_Add : Clicked on Add Element. Current count= 41
+2021-02-28 04:00:52,538 : INFO : test_Add : Count for Expected Delete increased to 41
+2021-02-28 04:00:52,576 : INFO : test_Add : Clicked on Add Element. Current count= 42
+2021-02-28 04:00:52,576 : INFO : test_Add : Count for Expected Delete increased to 42
+2021-02-28 04:00:52,608 : INFO : test_Add : Clicked on Add Element. Current count= 43
+2021-02-28 04:00:52,608 : INFO : test_Add : Count for Expected Delete increased to 43
+2021-02-28 04:00:52,638 : INFO : test_Add : Clicked on Add Element. Current count= 44
+2021-02-28 04:00:52,639 : INFO : test_Add : Count for Expected Delete increased to 44
+2021-02-28 04:00:52,729 : INFO : test_Add : Clicked on Add Element. Current count= 45
+2021-02-28 04:00:52,729 : INFO : test_Add : Count for Expected Delete increased to 45
+2021-02-28 04:00:52,825 : INFO : test_Add : Clicked on Add Element. Current count= 46
+2021-02-28 04:00:52,826 : INFO : test_Add : Count for Expected Delete increased to 46
+2021-02-28 04:00:52,873 : INFO : test_Add : Clicked on Add Element. Current count= 47
+2021-02-28 04:00:52,873 : INFO : test_Add : Count for Expected Delete increased to 47
+2021-02-28 04:00:52,902 : INFO : test_Add : Clicked on Add Element. Current count= 48
+2021-02-28 04:00:52,902 : INFO : test_Add : Count for Expected Delete increased to 48
+2021-02-28 04:00:52,928 : INFO : test_Add : Clicked on Add Element. Current count= 49
+2021-02-28 04:00:52,928 : INFO : test_Add : Count for Expected Delete increased to 49
+2021-02-28 04:04:22,101 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 04:04:22,101 : INFO : test_Add : Count for Expected Delete increased to 1
+2021-02-28 04:04:22,137 : INFO : test_Add : Clicked on Add Element. Current count= 2
+2021-02-28 04:04:22,137 : INFO : test_Add : Count for Expected Delete increased to 2
+2021-02-28 04:04:22,171 : INFO : test_Add : Clicked on Add Element. Current count= 3
+2021-02-28 04:04:22,172 : INFO : test_Add : Count for Expected Delete increased to 3
+2021-02-28 04:04:22,208 : INFO : test_Add : Clicked on Add Element. Current count= 4
+2021-02-28 04:04:22,209 : INFO : test_Add : Count for Expected Delete increased to 4
+2021-02-28 04:04:22,245 : INFO : test_Add : Clicked on Add Element. Current count= 5
+2021-02-28 04:04:22,245 : INFO : test_Add : Count for Expected Delete increased to 5
+2021-02-28 04:04:22,281 : INFO : test_Add : Clicked on Add Element. Current count= 6
+2021-02-28 04:04:22,281 : INFO : test_Add : Count for Expected Delete increased to 6
+2021-02-28 04:04:22,336 : INFO : test_Add : Clicked on Add Element. Current count= 7
+2021-02-28 04:04:22,336 : INFO : test_Add : Count for Expected Delete increased to 7
+2021-02-28 04:04:22,371 : INFO : test_Add : Clicked on Add Element. Current count= 8
+2021-02-28 04:04:22,371 : INFO : test_Add : Count for Expected Delete increased to 8
+2021-02-28 04:04:22,398 : INFO : test_Add : Clicked on Add Element. Current count= 9
+2021-02-28 04:04:22,399 : INFO : test_Add : Count for Expected Delete increased to 9
+2021-02-28 04:04:22,425 : INFO : test_Add : Clicked on Add Element. Current count= 10
+2021-02-28 04:04:22,425 : INFO : test_Add : Count for Expected Delete increased to 10
+2021-02-28 04:04:22,452 : INFO : test_Add : Clicked on Add Element. Current count= 11
+2021-02-28 04:04:22,452 : INFO : test_Add : Count for Expected Delete increased to 11
+2021-02-28 04:04:22,477 : INFO : test_Add : Clicked on Add Element. Current count= 12
+2021-02-28 04:04:22,478 : INFO : test_Add : Count for Expected Delete increased to 12
+2021-02-28 04:04:22,502 : INFO : test_Add : Clicked on Add Element. Current count= 13
+2021-02-28 04:04:22,502 : INFO : test_Add : Count for Expected Delete increased to 13
+2021-02-28 04:04:22,528 : INFO : test_Add : Clicked on Add Element. Current count= 14
+2021-02-28 04:04:22,528 : INFO : test_Add : Count for Expected Delete increased to 14
+2021-02-28 04:04:22,561 : INFO : test_Add : Clicked on Add Element. Current count= 15
+2021-02-28 04:04:22,562 : INFO : test_Add : Count for Expected Delete increased to 15
+2021-02-28 04:04:22,596 : INFO : test_Add : Clicked on Add Element. Current count= 16
+2021-02-28 04:04:22,597 : INFO : test_Add : Count for Expected Delete increased to 16
+2021-02-28 04:04:22,624 : INFO : test_Add : Clicked on Add Element. Current count= 17
+2021-02-28 04:04:22,625 : INFO : test_Add : Count for Expected Delete increased to 17
+2021-02-28 04:04:22,648 : INFO : test_Add : Clicked on Add Element. Current count= 18
+2021-02-28 04:04:22,648 : INFO : test_Add : Count for Expected Delete increased to 18
+2021-02-28 04:04:22,674 : INFO : test_Add : Clicked on Add Element. Current count= 19
+2021-02-28 04:04:22,675 : INFO : test_Add : Count for Expected Delete increased to 19
+2021-02-28 04:04:22,701 : INFO : test_Add : Clicked on Add Element. Current count= 20
+2021-02-28 04:04:22,702 : INFO : test_Add : Count for Expected Delete increased to 20
+2021-02-28 04:04:22,729 : INFO : test_Add : Clicked on Add Element. Current count= 21
+2021-02-28 04:04:22,729 : INFO : test_Add : Count for Expected Delete increased to 21
+2021-02-28 04:04:22,756 : INFO : test_Add : Clicked on Add Element. Current count= 22
+2021-02-28 04:04:22,757 : INFO : test_Add : Count for Expected Delete increased to 22
+2021-02-28 04:04:22,781 : INFO : test_Add : Clicked on Add Element. Current count= 23
+2021-02-28 04:04:22,781 : INFO : test_Add : Count for Expected Delete increased to 23
+2021-02-28 04:04:22,807 : INFO : test_Add : Clicked on Add Element. Current count= 24
+2021-02-28 04:04:22,808 : INFO : test_Add : Count for Expected Delete increased to 24
+2021-02-28 04:04:22,845 : INFO : test_Add : Clicked on Add Element. Current count= 25
+2021-02-28 04:04:22,846 : INFO : test_Add : Count for Expected Delete increased to 25
+2021-02-28 04:04:22,882 : INFO : test_Add : Clicked on Add Element. Current count= 26
+2021-02-28 04:04:22,882 : INFO : test_Add : Count for Expected Delete increased to 26
+2021-02-28 04:04:22,928 : INFO : test_Add : Clicked on Add Element. Current count= 27
+2021-02-28 04:04:22,928 : INFO : test_Add : Count for Expected Delete increased to 27
+2021-02-28 04:04:22,968 : INFO : test_Add : Clicked on Add Element. Current count= 28
+2021-02-28 04:04:22,968 : INFO : test_Add : Count for Expected Delete increased to 28
+2021-02-28 04:04:23,001 : INFO : test_Add : Clicked on Add Element. Current count= 29
+2021-02-28 04:04:23,002 : INFO : test_Add : Count for Expected Delete increased to 29
+2021-02-28 04:04:23,029 : INFO : test_Add : Clicked on Add Element. Current count= 30
+2021-02-28 04:04:23,029 : INFO : test_Add : Count for Expected Delete increased to 30
+2021-02-28 04:04:23,061 : INFO : test_Add : Clicked on Add Element. Current count= 31
+2021-02-28 04:04:23,061 : INFO : test_Add : Count for Expected Delete increased to 31
+2021-02-28 04:04:23,111 : INFO : test_Add : Clicked on Add Element. Current count= 32
+2021-02-28 04:04:23,111 : INFO : test_Add : Count for Expected Delete increased to 32
+2021-02-28 04:04:23,142 : INFO : test_Add : Clicked on Add Element. Current count= 33
+2021-02-28 04:04:23,142 : INFO : test_Add : Count for Expected Delete increased to 33
+2021-02-28 04:04:23,171 : INFO : test_Add : Clicked on Add Element. Current count= 34
+2021-02-28 04:04:23,171 : INFO : test_Add : Count for Expected Delete increased to 34
+2021-02-28 04:04:23,199 : INFO : test_Add : Clicked on Add Element. Current count= 35
+2021-02-28 04:04:23,200 : INFO : test_Add : Count for Expected Delete increased to 35
+2021-02-28 04:04:23,225 : INFO : test_Add : Clicked on Add Element. Current count= 36
+2021-02-28 04:04:23,226 : INFO : test_Add : Count for Expected Delete increased to 36
+2021-02-28 04:04:23,252 : INFO : test_Add : Clicked on Add Element. Current count= 37
+2021-02-28 04:04:23,252 : INFO : test_Add : Count for Expected Delete increased to 37
+2021-02-28 04:04:23,281 : INFO : test_Add : Clicked on Add Element. Current count= 38
+2021-02-28 04:04:23,281 : INFO : test_Add : Count for Expected Delete increased to 38
+2021-02-28 04:04:23,313 : INFO : test_Add : Clicked on Add Element. Current count= 39
+2021-02-28 04:04:23,313 : INFO : test_Add : Count for Expected Delete increased to 39
+2021-02-28 04:04:23,345 : INFO : test_Add : Clicked on Add Element. Current count= 40
+2021-02-28 04:04:23,345 : INFO : test_Add : Count for Expected Delete increased to 40
+2021-02-28 04:04:23,385 : INFO : test_Add : Clicked on Add Element. Current count= 41
+2021-02-28 04:04:23,386 : INFO : test_Add : Count for Expected Delete increased to 41
+2021-02-28 04:04:23,414 : INFO : test_Add : Clicked on Add Element. Current count= 42
+2021-02-28 04:04:23,415 : INFO : test_Add : Count for Expected Delete increased to 42
+2021-02-28 04:04:23,441 : INFO : test_Add : Clicked on Add Element. Current count= 43
+2021-02-28 04:04:23,441 : INFO : test_Add : Count for Expected Delete increased to 43
+2021-02-28 04:04:23,468 : INFO : test_Add : Clicked on Add Element. Current count= 44
+2021-02-28 04:04:23,468 : INFO : test_Add : Count for Expected Delete increased to 44
+2021-02-28 04:04:23,500 : INFO : test_Add : Clicked on Add Element. Current count= 45
+2021-02-28 04:04:23,500 : INFO : test_Add : Count for Expected Delete increased to 45
+2021-02-28 04:04:23,531 : INFO : test_Add : Clicked on Add Element. Current count= 46
+2021-02-28 04:04:23,531 : INFO : test_Add : Count for Expected Delete increased to 46
+2021-02-28 04:04:23,563 : INFO : test_Add : Clicked on Add Element. Current count= 47
+2021-02-28 04:04:23,563 : INFO : test_Add : Count for Expected Delete increased to 47
+2021-02-28 04:04:23,593 : INFO : test_Add : Clicked on Add Element. Current count= 48
+2021-02-28 04:04:23,593 : INFO : test_Add : Count for Expected Delete increased to 48
+2021-02-28 04:04:23,633 : INFO : test_Add : Clicked on Add Element. Current count= 49
+2021-02-28 04:04:23,633 : INFO : test_Add : Count for Expected Delete increased to 49
+2021-02-28 04:05:45,298 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 04:05:45,298 : INFO : test_Add : Count for Expected Delete increased to 1
+2021-02-28 04:05:45,338 : INFO : test_Add : Clicked on Add Element. Current count= 2
+2021-02-28 04:05:45,338 : INFO : test_Add : Count for Expected Delete increased to 2
+2021-02-28 04:05:45,370 : INFO : test_Add : Clicked on Add Element. Current count= 3
+2021-02-28 04:05:45,370 : INFO : test_Add : Count for Expected Delete increased to 3
+2021-02-28 04:05:45,404 : INFO : test_Add : Clicked on Add Element. Current count= 4
+2021-02-28 04:05:45,404 : INFO : test_Add : Count for Expected Delete increased to 4
+2021-02-28 04:05:45,453 : INFO : test_Add : Clicked on Add Element. Current count= 5
+2021-02-28 04:05:45,453 : INFO : test_Add : Count for Expected Delete increased to 5
+2021-02-28 04:05:45,482 : INFO : test_Add : Clicked on Add Element. Current count= 6
+2021-02-28 04:05:45,482 : INFO : test_Add : Count for Expected Delete increased to 6
+2021-02-28 04:05:45,514 : INFO : test_Add : Clicked on Add Element. Current count= 7
+2021-02-28 04:05:45,514 : INFO : test_Add : Count for Expected Delete increased to 7
+2021-02-28 04:05:45,541 : INFO : test_Add : Clicked on Add Element. Current count= 8
+2021-02-28 04:05:45,542 : INFO : test_Add : Count for Expected Delete increased to 8
+2021-02-28 04:05:45,572 : INFO : test_Add : Clicked on Add Element. Current count= 9
+2021-02-28 04:05:45,572 : INFO : test_Add : Count for Expected Delete increased to 9
+2021-02-28 04:05:45,601 : INFO : test_Add : Clicked on Add Element. Current count= 10
+2021-02-28 04:05:45,602 : INFO : test_Add : Count for Expected Delete increased to 10
+2021-02-28 04:05:45,632 : INFO : test_Add : Clicked on Add Element. Current count= 11
+2021-02-28 04:05:45,633 : INFO : test_Add : Count for Expected Delete increased to 11
+2021-02-28 04:05:45,662 : INFO : test_Add : Clicked on Add Element. Current count= 12
+2021-02-28 04:05:45,662 : INFO : test_Add : Count for Expected Delete increased to 12
+2021-02-28 04:05:45,706 : INFO : test_Add : Clicked on Add Element. Current count= 13
+2021-02-28 04:05:45,706 : INFO : test_Add : Count for Expected Delete increased to 13
+2021-02-28 04:05:45,734 : INFO : test_Add : Clicked on Add Element. Current count= 14
+2021-02-28 04:05:45,734 : INFO : test_Add : Count for Expected Delete increased to 14
+2021-02-28 04:05:45,766 : INFO : test_Add : Clicked on Add Element. Current count= 15
+2021-02-28 04:05:45,766 : INFO : test_Add : Count for Expected Delete increased to 15
+2021-02-28 04:05:45,795 : INFO : test_Add : Clicked on Add Element. Current count= 16
+2021-02-28 04:05:45,795 : INFO : test_Add : Count for Expected Delete increased to 16
+2021-02-28 04:05:45,823 : INFO : test_Add : Clicked on Add Element. Current count= 17
+2021-02-28 04:05:45,824 : INFO : test_Add : Count for Expected Delete increased to 17
+2021-02-28 04:05:45,858 : INFO : test_Add : Clicked on Add Element. Current count= 18
+2021-02-28 04:05:45,859 : INFO : test_Add : Count for Expected Delete increased to 18
+2021-02-28 04:05:45,890 : INFO : test_Add : Clicked on Add Element. Current count= 19
+2021-02-28 04:05:45,890 : INFO : test_Add : Count for Expected Delete increased to 19
+2021-02-28 04:05:45,918 : INFO : test_Add : Clicked on Add Element. Current count= 20
+2021-02-28 04:05:45,918 : INFO : test_Add : Count for Expected Delete increased to 20
+2021-02-28 04:05:45,965 : INFO : test_Add : Clicked on Add Element. Current count= 21
+2021-02-28 04:05:45,966 : INFO : test_Add : Count for Expected Delete increased to 21
+2021-02-28 04:05:45,994 : INFO : test_Add : Clicked on Add Element. Current count= 22
+2021-02-28 04:05:45,995 : INFO : test_Add : Count for Expected Delete increased to 22
+2021-02-28 04:05:46,020 : INFO : test_Add : Clicked on Add Element. Current count= 23
+2021-02-28 04:05:46,021 : INFO : test_Add : Count for Expected Delete increased to 23
+2021-02-28 04:05:46,047 : INFO : test_Add : Clicked on Add Element. Current count= 24
+2021-02-28 04:05:46,047 : INFO : test_Add : Count for Expected Delete increased to 24
+2021-02-28 04:05:46,072 : INFO : test_Add : Clicked on Add Element. Current count= 25
+2021-02-28 04:05:46,072 : INFO : test_Add : Count for Expected Delete increased to 25
+2021-02-28 04:05:46,101 : INFO : test_Add : Clicked on Add Element. Current count= 26
+2021-02-28 04:05:46,101 : INFO : test_Add : Count for Expected Delete increased to 26
+2021-02-28 04:05:46,129 : INFO : test_Add : Clicked on Add Element. Current count= 27
+2021-02-28 04:05:46,130 : INFO : test_Add : Count for Expected Delete increased to 27
+2021-02-28 04:05:46,158 : INFO : test_Add : Clicked on Add Element. Current count= 28
+2021-02-28 04:05:46,158 : INFO : test_Add : Count for Expected Delete increased to 28
+2021-02-28 04:05:46,192 : INFO : test_Add : Clicked on Add Element. Current count= 29
+2021-02-28 04:05:46,193 : INFO : test_Add : Count for Expected Delete increased to 29
+2021-02-28 04:05:46,230 : INFO : test_Add : Clicked on Add Element. Current count= 30
+2021-02-28 04:05:46,230 : INFO : test_Add : Count for Expected Delete increased to 30
+2021-02-28 04:05:46,256 : INFO : test_Add : Clicked on Add Element. Current count= 31
+2021-02-28 04:05:46,257 : INFO : test_Add : Count for Expected Delete increased to 31
+2021-02-28 04:05:46,287 : INFO : test_Add : Clicked on Add Element. Current count= 32
+2021-02-28 04:05:46,287 : INFO : test_Add : Count for Expected Delete increased to 32
+2021-02-28 04:05:46,318 : INFO : test_Add : Clicked on Add Element. Current count= 33
+2021-02-28 04:05:46,318 : INFO : test_Add : Count for Expected Delete increased to 33
+2021-02-28 04:05:46,348 : INFO : test_Add : Clicked on Add Element. Current count= 34
+2021-02-28 04:05:46,348 : INFO : test_Add : Count for Expected Delete increased to 34
+2021-02-28 04:05:46,374 : INFO : test_Add : Clicked on Add Element. Current count= 35
+2021-02-28 04:05:46,375 : INFO : test_Add : Count for Expected Delete increased to 35
+2021-02-28 04:05:46,405 : INFO : test_Add : Clicked on Add Element. Current count= 36
+2021-02-28 04:05:46,405 : INFO : test_Add : Count for Expected Delete increased to 36
+2021-02-28 04:05:46,437 : INFO : test_Add : Clicked on Add Element. Current count= 37
+2021-02-28 04:05:46,438 : INFO : test_Add : Count for Expected Delete increased to 37
+2021-02-28 04:05:46,488 : INFO : test_Add : Clicked on Add Element. Current count= 38
+2021-02-28 04:05:46,488 : INFO : test_Add : Count for Expected Delete increased to 38
+2021-02-28 04:05:46,515 : INFO : test_Add : Clicked on Add Element. Current count= 39
+2021-02-28 04:05:46,515 : INFO : test_Add : Count for Expected Delete increased to 39
+2021-02-28 04:05:46,540 : INFO : test_Add : Clicked on Add Element. Current count= 40
+2021-02-28 04:05:46,540 : INFO : test_Add : Count for Expected Delete increased to 40
+2021-02-28 04:05:46,569 : INFO : test_Add : Clicked on Add Element. Current count= 41
+2021-02-28 04:05:46,569 : INFO : test_Add : Count for Expected Delete increased to 41
+2021-02-28 04:05:46,598 : INFO : test_Add : Clicked on Add Element. Current count= 42
+2021-02-28 04:05:46,598 : INFO : test_Add : Count for Expected Delete increased to 42
+2021-02-28 04:05:46,624 : INFO : test_Add : Clicked on Add Element. Current count= 43
+2021-02-28 04:05:46,624 : INFO : test_Add : Count for Expected Delete increased to 43
+2021-02-28 04:05:46,653 : INFO : test_Add : Clicked on Add Element. Current count= 44
+2021-02-28 04:05:46,654 : INFO : test_Add : Count for Expected Delete increased to 44
+2021-02-28 04:05:46,680 : INFO : test_Add : Clicked on Add Element. Current count= 45
+2021-02-28 04:05:46,680 : INFO : test_Add : Count for Expected Delete increased to 45
+2021-02-28 04:05:46,723 : INFO : test_Add : Clicked on Add Element. Current count= 46
+2021-02-28 04:05:46,724 : INFO : test_Add : Count for Expected Delete increased to 46
+2021-02-28 04:05:46,756 : INFO : test_Add : Clicked on Add Element. Current count= 47
+2021-02-28 04:05:46,756 : INFO : test_Add : Count for Expected Delete increased to 47
+2021-02-28 04:05:46,789 : INFO : test_Add : Clicked on Add Element. Current count= 48
+2021-02-28 04:05:46,789 : INFO : test_Add : Count for Expected Delete increased to 48
+2021-02-28 04:05:46,817 : INFO : test_Add : Clicked on Add Element. Current count= 49
+2021-02-28 04:05:46,818 : INFO : test_Add : Count for Expected Delete increased to 49
+2021-02-28 04:05:46,818 : ERROR : test_Add : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x000001E4B5418740>)
+2021-02-28 04:27:34,069 : ERROR : test_BasicAuth : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//a[@text="Basic Auth"]"}\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x00000146589F2300>)
+2021-02-28 19:22:04,812 : ERROR : test_BrokenImg : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'Xpath'"), <traceback object at 0x000001E3A1BF8A80>)
+2021-02-28 19:24:37,809 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 19:24:44,581 : ERROR : test_BrokenImg : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x0000019A5A2B6580>)
+2021-02-28 19:33:52,225 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 19:33:58,073 : ERROR : test_BrokenImg : (<class 'TypeError'>, TypeError("'Logger' object is not callable"), <traceback object at 0x0000025F65314300>)
+2021-02-28 19:36:22,727 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 19:36:28,699 : INFO : test_BrokenImg : Links of image found.
+2021-02-28 19:36:30,407 : ERROR : test_BrokenImg : (<class 'AttributeError'>, AttributeError("module 'urllib3.response' has no attribute 'status_code'"), <traceback object at 0x000001E105C9AF00>)
+2021-02-28 19:38:57,483 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 19:39:03,292 : INFO : test_BrokenImg : Links of image found.
+2021-02-28 19:39:05,863 : WARNING : test_BrokenImg : The image is broken
+2021-02-28 19:39:06,942 : WARNING : test_BrokenImg : The image is broken
+2021-02-28 19:47:42,044 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 19:47:47,960 : INFO : test_BrokenImg : Links of image found.
+2021-02-28 19:47:48,984 : INFO : test_BrokenImg : <img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"> is working fine.
+2021-02-28 19:47:50,249 : WARNING : test_BrokenImg : <img src="asdf.jpg"> is broken.
+2021-02-28 19:47:51,475 : WARNING : test_BrokenImg : <img src="hjkl.jpg"> is broken.
+2021-02-28 19:47:52,910 : INFO : test_BrokenImg : <img src="img/avatar-blank.jpg"> is working fine.
+2021-02-28 19:53:59,413 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 19:54:05,153 : INFO : test_BrokenImg : Links of image found.
+2021-02-28 19:54:06,427 : INFO : test_BrokenImg : <img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"> is working fine.
+2021-02-28 19:54:07,473 : WARNING : test_BrokenImg : <img src="asdf.jpg"> is broken.
+2021-02-28 19:54:08,681 : WARNING : test_BrokenImg : <img src="hjkl.jpg"> is broken.
+2021-02-28 19:54:09,690 : ERROR : test_BrokenImg : (<class 'selenium.common.exceptions.StaleElementReferenceException'>, StaleElementReferenceException('stale element reference: element is not attached to the page document\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x000001882F045F00>)
+2021-02-28 20:17:42,742 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 20:17:48,521 : INFO : test_BrokenImg : Links of image found.
+2021-02-28 20:17:49,574 : INFO : test_BrokenImg : <img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"> is working fine.
+2021-02-28 20:17:50,616 : WARNING : test_BrokenImg : <img src="asdf.jpg"> is broken.
+2021-02-28 20:17:52,010 : WARNING : test_BrokenImg : <img src="hjkl.jpg"> is broken.
+2021-02-28 20:17:53,253 : INFO : test_BrokenImg : <img src="img/avatar-blank.jpg"> is working fine.
+2021-02-28 20:27:26,752 : ERROR : test_checkBox : (<class 'selenium.common.exceptions.InvalidArgumentException'>, InvalidArgumentException("invalid argument: 'using' must be a string\n  (Session info: chrome=88.0.4324.182)", None, None), <traceback object at 0x000001E035781E40>)
+2021-02-28 20:28:07,291 : ERROR : test_checkBox : (<class 'selenium.common.exceptions.InvalidArgumentException'>, InvalidArgumentException("invalid argument: 'using' must be a string\n  (Session info: chrome=88.0.4324.182)", None, None), <traceback object at 0x000002656BAAD280>)
+2021-02-28 20:29:46,902 : ERROR : test_checkBox : (<class 'selenium.common.exceptions.InvalidSelectorException'>, InvalidSelectorException('invalid selector: Unable to locate an element with the xpath expression //a[text(]="Checkboxes because of the following error:\nSyntaxError: Failed to execute \'evaluate\' on \'Document\': The string \'//a[text(]="Checkboxes\' is not a valid XPath expression.\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x000001E66B39EEC0>)
+2021-02-28 20:30:39,777 : ERROR : test_checkBox : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//input[text()="checkbox 1"]"}\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x00000252C6EB2CC0>)
+2021-02-28 20:33:22,721 : INFO : test_checkBox : Checkbox 1 is checked
+2021-02-28 20:33:22,794 : INFO : test_checkBox : Checkbox 2 is unchecked
+2021-02-28 20:35:02,484 : ERROR : test_BasicAuth : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x000002591E887A80>)
+2021-02-28 20:35:10,774 : INFO : test_BrokenImg : Broken Image link found.
+2021-02-28 20:35:17,153 : INFO : test_BrokenImg : Links of image found.
+2021-02-28 20:35:18,670 : INFO : test_BrokenImg : <img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"> is working fine.
+2021-02-28 20:35:19,929 : WARNING : test_BrokenImg : <img src="asdf.jpg"> is broken.
+2021-02-28 20:35:20,979 : WARNING : test_BrokenImg : <img src="hjkl.jpg"> is broken.
+2021-02-28 20:35:22,093 : INFO : test_BrokenImg : <img src="img/avatar-blank.jpg"> is working fine.
+2021-02-28 20:35:36,120 : INFO : test_checkBox : Checkbox 1 is checked
+2021-02-28 20:35:36,181 : INFO : test_checkBox : Checkbox 2 is unchecked
+2021-02-28 20:35:48,204 : ERROR : test_ab : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000002591F1A3640>)
+2021-02-28 20:36:02,315 : INFO : test_Add : Clicked on Add Element. Current count= 1
+2021-02-28 20:36:02,315 : INFO : test_Add : Count for Expected Delete increased to 1
+2021-02-28 20:36:02,364 : INFO : test_Add : Clicked on Add Element. Current count= 2
+2021-02-28 20:36:02,364 : INFO : test_Add : Count for Expected Delete increased to 2
+2021-02-28 20:36:02,399 : INFO : test_Add : Clicked on Add Element. Current count= 3
+2021-02-28 20:36:02,400 : INFO : test_Add : Count for Expected Delete increased to 3
+2021-02-28 20:36:02,446 : INFO : test_Add : Clicked on Add Element. Current count= 4
+2021-02-28 20:36:02,446 : INFO : test_Add : Count for Expected Delete increased to 4
+2021-02-28 20:36:02,481 : INFO : test_Add : Clicked on Add Element. Current count= 5
+2021-02-28 20:36:02,481 : INFO : test_Add : Count for Expected Delete increased to 5
+2021-02-28 20:36:02,516 : INFO : test_Add : Clicked on Add Element. Current count= 6
+2021-02-28 20:36:02,516 : INFO : test_Add : Count for Expected Delete increased to 6
+2021-02-28 20:36:02,557 : INFO : test_Add : Clicked on Add Element. Current count= 7
+2021-02-28 20:36:02,557 : INFO : test_Add : Count for Expected Delete increased to 7
+2021-02-28 20:36:02,593 : INFO : test_Add : Clicked on Add Element. Current count= 8
+2021-02-28 20:36:02,594 : INFO : test_Add : Count for Expected Delete increased to 8
+2021-02-28 20:36:02,630 : INFO : test_Add : Clicked on Add Element. Current count= 9
+2021-02-28 20:36:02,630 : INFO : test_Add : Count for Expected Delete increased to 9
+2021-02-28 20:36:02,664 : INFO : test_Add : Clicked on Add Element. Current count= 10
+2021-02-28 20:36:02,664 : INFO : test_Add : Count for Expected Delete increased to 10
+2021-02-28 20:36:02,707 : INFO : test_Add : Clicked on Add Element. Current count= 11
+2021-02-28 20:36:02,707 : INFO : test_Add : Count for Expected Delete increased to 11
+2021-02-28 20:36:02,744 : INFO : test_Add : Clicked on Add Element. Current count= 12
+2021-02-28 20:36:02,744 : INFO : test_Add : Count for Expected Delete increased to 12
+2021-02-28 20:36:02,780 : INFO : test_Add : Clicked on Add Element. Current count= 13
+2021-02-28 20:36:02,780 : INFO : test_Add : Count for Expected Delete increased to 13
+2021-02-28 20:36:02,812 : INFO : test_Add : Clicked on Add Element. Current count= 14
+2021-02-28 20:36:02,813 : INFO : test_Add : Count for Expected Delete increased to 14
+2021-02-28 20:36:02,856 : INFO : test_Add : Clicked on Add Element. Current count= 15
+2021-02-28 20:36:02,856 : INFO : test_Add : Count for Expected Delete increased to 15
+2021-02-28 20:36:02,893 : INFO : test_Add : Clicked on Add Element. Current count= 16
+2021-02-28 20:36:02,893 : INFO : test_Add : Count for Expected Delete increased to 16
+2021-02-28 20:36:02,930 : INFO : test_Add : Clicked on Add Element. Current count= 17
+2021-02-28 20:36:02,930 : INFO : test_Add : Count for Expected Delete increased to 17
+2021-02-28 20:36:02,962 : INFO : test_Add : Clicked on Add Element. Current count= 18
+2021-02-28 20:36:02,962 : INFO : test_Add : Count for Expected Delete increased to 18
+2021-02-28 20:36:02,996 : INFO : test_Add : Clicked on Add Element. Current count= 19
+2021-02-28 20:36:02,996 : INFO : test_Add : Count for Expected Delete increased to 19
+2021-02-28 20:36:03,032 : INFO : test_Add : Clicked on Add Element. Current count= 20
+2021-02-28 20:36:03,032 : INFO : test_Add : Count for Expected Delete increased to 20
+2021-02-28 20:36:03,065 : INFO : test_Add : Clicked on Add Element. Current count= 21
+2021-02-28 20:36:03,065 : INFO : test_Add : Count for Expected Delete increased to 21
+2021-02-28 20:36:03,098 : INFO : test_Add : Clicked on Add Element. Current count= 22
+2021-02-28 20:36:03,098 : INFO : test_Add : Count for Expected Delete increased to 22
+2021-02-28 20:36:03,134 : INFO : test_Add : Clicked on Add Element. Current count= 23
+2021-02-28 20:36:03,134 : INFO : test_Add : Count for Expected Delete increased to 23
+2021-02-28 20:36:03,166 : INFO : test_Add : Clicked on Add Element. Current count= 24
+2021-02-28 20:36:03,166 : INFO : test_Add : Count for Expected Delete increased to 24
+2021-02-28 20:36:03,197 : INFO : test_Add : Clicked on Add Element. Current count= 25
+2021-02-28 20:36:03,197 : INFO : test_Add : Count for Expected Delete increased to 25
+2021-02-28 20:36:03,224 : INFO : test_Add : Clicked on Add Element. Current count= 26
+2021-02-28 20:36:03,224 : INFO : test_Add : Count for Expected Delete increased to 26
+2021-02-28 20:36:03,255 : INFO : test_Add : Clicked on Add Element. Current count= 27
+2021-02-28 20:36:03,256 : INFO : test_Add : Count for Expected Delete increased to 27
+2021-02-28 20:36:03,284 : INFO : test_Add : Clicked on Add Element. Current count= 28
+2021-02-28 20:36:03,285 : INFO : test_Add : Count for Expected Delete increased to 28
+2021-02-28 20:36:03,314 : INFO : test_Add : Clicked on Add Element. Current count= 29
+2021-02-28 20:36:03,314 : INFO : test_Add : Count for Expected Delete increased to 29
+2021-02-28 20:36:03,345 : INFO : test_Add : Clicked on Add Element. Current count= 30
+2021-02-28 20:36:03,345 : INFO : test_Add : Count for Expected Delete increased to 30
+2021-02-28 20:36:03,374 : INFO : test_Add : Clicked on Add Element. Current count= 31
+2021-02-28 20:36:03,375 : INFO : test_Add : Count for Expected Delete increased to 31
+2021-02-28 20:36:03,406 : INFO : test_Add : Clicked on Add Element. Current count= 32
+2021-02-28 20:36:03,406 : INFO : test_Add : Count for Expected Delete increased to 32
+2021-02-28 20:36:03,437 : INFO : test_Add : Clicked on Add Element. Current count= 33
+2021-02-28 20:36:03,437 : INFO : test_Add : Count for Expected Delete increased to 33
+2021-02-28 20:36:03,464 : INFO : test_Add : Clicked on Add Element. Current count= 34
+2021-02-28 20:36:03,464 : INFO : test_Add : Count for Expected Delete increased to 34
+2021-02-28 20:36:03,493 : INFO : test_Add : Clicked on Add Element. Current count= 35
+2021-02-28 20:36:03,494 : INFO : test_Add : Count for Expected Delete increased to 35
+2021-02-28 20:36:03,522 : INFO : test_Add : Clicked on Add Element. Current count= 36
+2021-02-28 20:36:03,522 : INFO : test_Add : Count for Expected Delete increased to 36
+2021-02-28 20:36:03,548 : INFO : test_Add : Clicked on Add Element. Current count= 37
+2021-02-28 20:36:03,548 : INFO : test_Add : Count for Expected Delete increased to 37
+2021-02-28 20:36:03,605 : INFO : test_Add : Clicked on Add Element. Current count= 38
+2021-02-28 20:36:03,606 : INFO : test_Add : Count for Expected Delete increased to 38
+2021-02-28 20:36:03,634 : INFO : test_Add : Clicked on Add Element. Current count= 39
+2021-02-28 20:36:03,634 : INFO : test_Add : Count for Expected Delete increased to 39
+2021-02-28 20:36:03,664 : INFO : test_Add : Clicked on Add Element. Current count= 40
+2021-02-28 20:36:03,664 : INFO : test_Add : Count for Expected Delete increased to 40
+2021-02-28 20:36:03,698 : INFO : test_Add : Clicked on Add Element. Current count= 41
+2021-02-28 20:36:03,699 : INFO : test_Add : Count for Expected Delete increased to 41
+2021-02-28 20:36:03,730 : INFO : test_Add : Clicked on Add Element. Current count= 42
+2021-02-28 20:36:03,730 : INFO : test_Add : Count for Expected Delete increased to 42
+2021-02-28 20:36:03,764 : INFO : test_Add : Clicked on Add Element. Current count= 43
+2021-02-28 20:36:03,764 : INFO : test_Add : Count for Expected Delete increased to 43
+2021-02-28 20:36:03,793 : INFO : test_Add : Clicked on Add Element. Current count= 44
+2021-02-28 20:36:03,793 : INFO : test_Add : Count for Expected Delete increased to 44
+2021-02-28 20:36:03,823 : INFO : test_Add : Clicked on Add Element. Current count= 45
+2021-02-28 20:36:03,823 : INFO : test_Add : Count for Expected Delete increased to 45
+2021-02-28 20:36:03,861 : INFO : test_Add : Clicked on Add Element. Current count= 46
+2021-02-28 20:36:03,861 : INFO : test_Add : Count for Expected Delete increased to 46
+2021-02-28 20:36:03,894 : INFO : test_Add : Clicked on Add Element. Current count= 47
+2021-02-28 20:36:03,894 : INFO : test_Add : Count for Expected Delete increased to 47
+2021-02-28 20:36:03,927 : INFO : test_Add : Clicked on Add Element. Current count= 48
+2021-02-28 20:36:03,927 : INFO : test_Add : Count for Expected Delete increased to 48
+2021-02-28 20:36:03,957 : INFO : test_Add : Clicked on Add Element. Current count= 49
+2021-02-28 20:36:03,957 : INFO : test_Add : Count for Expected Delete increased to 49
+2021-02-28 23:06:54,020 : ERROR : test_ContextMenu : (<class 'AttributeError'>, AttributeError("'TestContextMenu' object has no attribute 'slertBox'"), <traceback object at 0x0000026701AF0180>)
+2021-02-28 23:09:42,858 : INFO : test_ContextMenu : The Alert is working fine
+2021-02-28 23:09:42,864 : INFO : test_ContextMenu : The alert is closed.
+2021-03-01 00:07:32,681 : ERROR : test_DisappearingElements : (<class 'selenium.common.exceptions.InvalidArgumentException'>, InvalidArgumentException("invalid argument: 'using' must be a string\n  (Session info: chrome=88.0.4324.182)", None, None), <traceback object at 0x000001FAC19F0500>)
+2021-03-01 00:08:52,680 : ERROR : test_DisappearingElements : (<class 'selenium.common.exceptions.InvalidArgumentException'>, InvalidArgumentException("invalid argument: 'using' must be a string\n  (Session info: chrome=88.0.4324.182)", None, None), <traceback object at 0x00000214CCBB0800>)
+2021-03-01 00:09:52,083 : ERROR : test_DisappearingElements : (<class 'AttributeError'>, AttributeError("'list' object has no attribute 'text'"), <traceback object at 0x000001F51B2C6840>)
+2021-03-01 00:21:46,512 : ERROR : test_DisappearingElements : (<class 'AttributeError'>, AttributeError("'list' object has no attribute 'text'"), <traceback object at 0x00000252756FCE80>)
+2021-03-01 00:35:40,552 : INFO : test_DisappearingElements : Current buttons ase: 
+2021-03-01 00:35:40,553 : ERROR : test_DisappearingElements : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'reload'"), <traceback object at 0x00000248524B6500>)
+2021-03-01 00:37:32,159 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:37:32,159 : ERROR : test_DisappearingElements : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'reload'"), <traceback object at 0x000001858633A900>)
+2021-03-01 00:39:35,861 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:39:39,561 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:39:43,120 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:39:46,547 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:39:49,959 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:39:53,384 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:39:56,821 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:40:00,286 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:40:03,753 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:40:07,306 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:40:07,310 : ERROR : test_DisappearingElements : (<class 'selenium.common.exceptions.NoSuchWindowException'>, NoSuchWindowException('no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x0000022DE1A3ECC0>)
+2021-03-01 00:43:57,932 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:00,953 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:04,402 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:07,839 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:11,330 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:14,790 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:18,228 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:21,971 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:25,485 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:44:37,721 : ERROR : test_DisappearingElements : (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('chrome not reachable\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x00000212D5472C80>)
+2021-03-01 00:47:20,307 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:23,488 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:26,913 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:30,480 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:34,340 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:37,388 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:40,852 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:43,897 : INFO : test_DisappearingElements : Current buttons are: 
+2021-03-01 00:47:59,047 : ERROR : test_DisappearingElements : (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('chrome not reachable\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x000002D6737074C0>)
+2021-03-01 00:49:31,253 : ERROR : test_DisappearingElements : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'find_elements_by_tag'"), <traceback object at 0x0000021148880EC0>)
+2021-03-01 00:51:18,446 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:51:22,090 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Gallery Elemental Selenium
+2021-03-01 00:51:25,518 : INFO : test_DisappearingElements : Gallery button found
+2021-03-01 00:52:44,973 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:52:48,406 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:52:51,871 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:52:55,305 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:52:58,717 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:53:02,162 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:53:05,584 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:53:09,029 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:53:12,049 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:53:15,474 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-01 00:53:27,629 : ERROR : test_DisappearingElements : (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('chrome not reachable\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x000001978C260240>)
+2021-03-01 01:01:16,137 : INFO : test_DisappearingElements : Gallery button found
+2021-03-01 02:21:19,053 : INFO : test_dragdAndDrop : Drag and Drop completed!
+2021-03-01 03:11:55,140 : ERROR : test_dragdAndDrop : (<class 'TypeError'>, TypeError("drag_and_drop_by_offset() missing 3 required positional arguments: 'source', 'xoffset', and 'yoffset'"), <traceback object at 0x000001728281FA00>)
+2021-03-01 03:18:22,492 : ERROR : test_dropdown : (<class 'selenium.common.exceptions.InvalidArgumentException'>, InvalidArgumentException("invalid argument: 'using' must be a string\n  (Session info: chrome=88.0.4324.182)", None, None), <traceback object at 0x0000028B450C1680>)
+2021-03-01 03:20:41,314 : ERROR : test_dropdown : (<class 'selenium.common.exceptions.InvalidArgumentException'>, InvalidArgumentException("invalid argument: 'using' must be a string\n  (Session info: chrome=88.0.4324.182)", None, None), <traceback object at 0x00000191FAB6D880>)
+2021-03-01 03:24:05,623 : ERROR : test_dropdown : (<class 'selenium.common.exceptions.InvalidArgumentException'>, InvalidArgumentException("invalid argument: 'using' must be a string\n  (Session info: chrome=88.0.4324.182)", None, None), <traceback object at 0x00000288B1B8D940>)
+2021-03-01 03:25:56,107 : INFO : test_dropdown : Option selected from the dropdown and hence the case is completed!
+2021-03-01 03:27:05,607 : INFO : test_dropdown : Option selected from the dropdown and hence the case is completed!
+2021-03-01 03:27:42,172 : INFO : test_dropdown : Option selected from the dropdown and hence the case is completed!
+2021-03-01 03:51:57,957 : ERROR : test_DynamicContent : (<class 'AttributeError'>, AttributeError("'WebElement' object has no attribute 'driver'"), <traceback object at 0x0000024E88DD8F00>)
+2021-03-01 03:53:15,465 : INFO : test_DynamicContent : Dolores doloribus sed recusandae et mollitia illo fuga ut numquam et sed ea optio maiores fugiat omnis ab aut doloremque ut quia cum odit quia voluptatem velit quas eum qui amet explicabo ut debitis sed.
+2021-03-01 03:53:15,500 : INFO : test_DynamicContent : Dolores doloribus sed recusandae et mollitia illo fuga ut numquam et sed ea optio maiores fugiat omnis ab aut doloremque ut quia cum odit quia voluptatem velit quas eum qui amet explicabo ut debitis sed.
+2021-03-01 03:53:15,527 : INFO : test_DynamicContent : Dolores doloribus sed recusandae et mollitia illo fuga ut numquam et sed ea optio maiores fugiat omnis ab aut doloremque ut quia cum odit quia voluptatem velit quas eum qui amet explicabo ut debitis sed.
+2021-03-01 03:53:16,505 : INFO : test_DynamicContent : Nulla et aut dolor porro ut quia sapiente praesentium consequatur quas consequatur aspernatur libero necessitatibus architecto delectus impedit corrupti repudiandae rem magni maiores et blanditiis quam non et quisquam quis quo nostrum.
+2021-03-01 03:53:16,527 : INFO : test_DynamicContent : Nulla et aut dolor porro ut quia sapiente praesentium consequatur quas consequatur aspernatur libero necessitatibus architecto delectus impedit corrupti repudiandae rem magni maiores et blanditiis quam non et quisquam quis quo nostrum.
+2021-03-01 03:53:16,548 : INFO : test_DynamicContent : Nulla et aut dolor porro ut quia sapiente praesentium consequatur quas consequatur aspernatur libero necessitatibus architecto delectus impedit corrupti repudiandae rem magni maiores et blanditiis quam non et quisquam quis quo nostrum.
+2021-03-01 03:59:03,372 : INFO : test_DynamicContent : Itaque sit tenetur necessitatibus ut ratione nemo ut quibusdam alias iure voluptatem et natus ad quidem numquam perspiciatis voluptatibus libero neque cumque ut doloribus non reprehenderit qui accusantium hic nihil nisi delectus ipsam dolores sit.
+2021-03-01 03:59:03,392 : INFO : test_DynamicContent : Itaque sit tenetur necessitatibus ut ratione nemo ut quibusdam alias iure voluptatem et natus ad quidem numquam perspiciatis voluptatibus libero neque cumque ut doloribus non reprehenderit qui accusantium hic nihil nisi delectus ipsam dolores sit.
+2021-03-01 03:59:03,412 : INFO : test_DynamicContent : Itaque sit tenetur necessitatibus ut ratione nemo ut quibusdam alias iure voluptatem et natus ad quidem numquam perspiciatis voluptatibus libero neque cumque ut doloribus non reprehenderit qui accusantium hic nihil nisi delectus ipsam dolores sit.
+2021-03-01 03:59:04,288 : INFO : test_DynamicContent : Ullam ipsum illum repudiandae atque ut nobis reprehenderit eligendi quo enim aut enim officia nostrum accusantium officiis tenetur at in optio eaque eos quisquam nemo repellendus dignissimos tempore voluptas consequatur.
+2021-03-01 03:59:04,308 : INFO : test_DynamicContent : Ullam ipsum illum repudiandae atque ut nobis reprehenderit eligendi quo enim aut enim officia nostrum accusantium officiis tenetur at in optio eaque eos quisquam nemo repellendus dignissimos tempore voluptas consequatur.
+2021-03-01 03:59:04,340 : INFO : test_DynamicContent : Ullam ipsum illum repudiandae atque ut nobis reprehenderit eligendi quo enim aut enim officia nostrum accusantium officiis tenetur at in optio eaque eos quisquam nemo repellendus dignissimos tempore voluptas consequatur.
+2021-03-01 03:59:55,916 : INFO : test_DynamicContent : Sunt sit velit ducimus similique nobis corporis commodi eius corrupti voluptatem placeat a enim cumque fugit ipsam deserunt iste praesentium quia autem iure error unde sit nihil reiciendis quos sunt repudiandae facilis aperiam vel non.
+2021-03-01 03:59:55,927 : INFO : test_DynamicContent : Sunt sit velit ducimus similique nobis corporis commodi eius corrupti voluptatem placeat a enim cumque fugit ipsam deserunt iste praesentium quia autem iure error unde sit nihil reiciendis quos sunt repudiandae facilis aperiam vel non.
+2021-03-01 03:59:55,946 : INFO : test_DynamicContent : Sunt sit velit ducimus similique nobis corporis commodi eius corrupti voluptatem placeat a enim cumque fugit ipsam deserunt iste praesentium quia autem iure error unde sit nihil reiciendis quos sunt repudiandae facilis aperiam vel non.
+2021-03-01 03:59:56,988 : INFO : test_DynamicContent : Quo laboriosam sequi molestiae ut excepturi quia magni porro saepe ab a inventore voluptas velit ipsum nisi doloribus consectetur omnis maxime autem necessitatibus ut vel ut voluptatum non deleniti id.
+2021-03-01 03:59:57,011 : INFO : test_DynamicContent : Quo laboriosam sequi molestiae ut excepturi quia magni porro saepe ab a inventore voluptas velit ipsum nisi doloribus consectetur omnis maxime autem necessitatibus ut vel ut voluptatum non deleniti id.
+2021-03-01 03:59:57,031 : INFO : test_DynamicContent : Quo laboriosam sequi molestiae ut excepturi quia magni porro saepe ab a inventore voluptas velit ipsum nisi doloribus consectetur omnis maxime autem necessitatibus ut vel ut voluptatum non deleniti id.
+2021-03-01 04:04:54,246 : WARNING : test_DynamicContent : []
+2021-03-01 04:04:54,246 : ERROR : test_DynamicContent : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x00000259E5938480>)
+2021-03-01 04:06:03,712 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="a462ce3f4183108514e4cc87783f6f58", element="699ba307-8343-4f7b-b09e-6db9835396e0")>, <selenium.webdriver.remote.webelement.WebElement (session="a462ce3f4183108514e4cc87783f6f58", element="3e5ae147-88c0-42d7-b02b-b3d41664685f")>, <selenium.webdriver.remote.webelement.WebElement (session="a462ce3f4183108514e4cc87783f6f58", element="df040ca7-6056-4a1c-b6b7-0a36816579c8")>]
+2021-03-01 04:06:03,748 : INFO : test_DynamicContent : Repudiandae ut et rem expedita laborum omnis quia dolorum cumque suscipit officiis eos ex adipisci quidem assumenda consequatur praesentium pariatur cupiditate et fugit quod est earum quaerat natus aut sint.
+2021-03-01 04:06:03,773 : INFO : test_DynamicContent : Repudiandae ut et rem expedita laborum omnis quia dolorum cumque suscipit officiis eos ex adipisci quidem assumenda consequatur praesentium pariatur cupiditate et fugit quod est earum quaerat natus aut sint.
+2021-03-01 04:06:03,798 : INFO : test_DynamicContent : Repudiandae ut et rem expedita laborum omnis quia dolorum cumque suscipit officiis eos ex adipisci quidem assumenda consequatur praesentium pariatur cupiditate et fugit quod est earum quaerat natus aut sint.
+2021-03-01 04:06:04,724 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="a462ce3f4183108514e4cc87783f6f58", element="cf67fc2e-4090-4c74-8606-778b364e719b")>, <selenium.webdriver.remote.webelement.WebElement (session="a462ce3f4183108514e4cc87783f6f58", element="36c973c9-cde3-4b21-b832-1d8935590351")>, <selenium.webdriver.remote.webelement.WebElement (session="a462ce3f4183108514e4cc87783f6f58", element="1c3fab5b-e18c-4ee3-b4cb-8e8d6a45293b")>]
+2021-03-01 04:06:04,784 : INFO : test_DynamicContent : Aut molestias sapiente qui deserunt deleniti nemo fugit nesciunt aperiam quidem qui voluptas est ut neque et officiis aliquam est laudantium recusandae voluptatibus dolore quibusdam quam aut saepe nihil asperiores magni et accusamus.
+2021-03-01 04:06:04,837 : INFO : test_DynamicContent : Aut molestias sapiente qui deserunt deleniti nemo fugit nesciunt aperiam quidem qui voluptas est ut neque et officiis aliquam est laudantium recusandae voluptatibus dolore quibusdam quam aut saepe nihil asperiores magni et accusamus.
+2021-03-01 04:06:04,861 : INFO : test_DynamicContent : Aut molestias sapiente qui deserunt deleniti nemo fugit nesciunt aperiam quidem qui voluptas est ut neque et officiis aliquam est laudantium recusandae voluptatibus dolore quibusdam quam aut saepe nihil asperiores magni et accusamus.
+2021-03-01 04:11:05,213 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="2c27f8f9c6a49e4e3783e7ecb5ebbe92", element="17b0abbb-fd12-473d-842f-5311ff13267f")>, <selenium.webdriver.remote.webelement.WebElement (session="2c27f8f9c6a49e4e3783e7ecb5ebbe92", element="3701a5a3-979e-470c-ba1e-33335ce5b679")>, <selenium.webdriver.remote.webelement.WebElement (session="2c27f8f9c6a49e4e3783e7ecb5ebbe92", element="fbe414e3-4450-4c73-a750-b98c6875641e")>]
+2021-03-01 04:11:05,214 : ERROR : test_DynamicContent : (<class 'TypeError'>, TypeError("'WebElement' object is not subscriptable"), <traceback object at 0x000001E16CE18AC0>)
+2021-03-01 04:14:35,769 : ERROR : test_DynamicContent : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()="Dynamic Content"]"}\n  (Session info: chrome=88.0.4324.182)', None, None), <traceback object at 0x000002B9650C0600>)
+2021-03-01 04:15:34,107 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="aa7bd754185024046c1e5b464772d737", element="b98c5787-58d4-4229-a1c5-79801503d85d")>, <selenium.webdriver.remote.webelement.WebElement (session="aa7bd754185024046c1e5b464772d737", element="d68140c6-e556-40e3-9593-fb755c88ebf8")>, <selenium.webdriver.remote.webelement.WebElement (session="aa7bd754185024046c1e5b464772d737", element="c89f05ee-1bbb-4977-ae39-4f5cb85c7545")>]
+2021-03-01 04:15:34,108 : ERROR : test_DynamicContent : (<class 'TypeError'>, TypeError("'WebElement' object is not subscriptable"), <traceback object at 0x000001C681B64B00>)
+2021-03-01 04:18:55,907 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="e05553160ea316ea5b14cc7c8d1bcd46", element="783f20ad-df52-4ad8-b0d8-e1e616a20e09")>, <selenium.webdriver.remote.webelement.WebElement (session="e05553160ea316ea5b14cc7c8d1bcd46", element="527efe8b-011a-42d6-afb8-81f3c2df8cf1")>, <selenium.webdriver.remote.webelement.WebElement (session="e05553160ea316ea5b14cc7c8d1bcd46", element="af79069e-4a9b-421d-9aa6-e68a079004e0")>]
+2021-03-01 04:18:55,960 : INFO : test_DynamicContent : 
+2021-03-01 04:18:55,991 : INFO : test_DynamicContent : 
+2021-03-01 04:18:56,020 : INFO : test_DynamicContent : 
+2021-03-01 04:18:56,687 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="e05553160ea316ea5b14cc7c8d1bcd46", element="3628f2ac-6c5c-4f1a-8f5e-2710973e12b9")>, <selenium.webdriver.remote.webelement.WebElement (session="e05553160ea316ea5b14cc7c8d1bcd46", element="e02f8bfc-56a5-48b4-9187-b3ee7d218ba6")>, <selenium.webdriver.remote.webelement.WebElement (session="e05553160ea316ea5b14cc7c8d1bcd46", element="4e15d37b-de4d-423b-be0d-46ed5b4267db")>]
+2021-03-01 04:18:56,734 : INFO : test_DynamicContent : 
+2021-03-01 04:18:56,755 : INFO : test_DynamicContent : 
+2021-03-01 04:18:56,775 : INFO : test_DynamicContent : 
+2021-03-01 04:20:54,845 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="caa7015053fb59f2fbed7256543de5ad", element="f127daa7-c0d6-4216-bdfd-d1124617ea6a")>, <selenium.webdriver.remote.webelement.WebElement (session="caa7015053fb59f2fbed7256543de5ad", element="4e6eafd6-d2b6-45d1-b69d-df4018ab0d34")>, <selenium.webdriver.remote.webelement.WebElement (session="caa7015053fb59f2fbed7256543de5ad", element="9a2de97e-1655-4440-b4e8-62f1184160a2")>]
+2021-03-01 04:20:54,874 : INFO : test_DynamicContent : 
+2021-03-01 04:20:54,897 : INFO : test_DynamicContent : 
+2021-03-01 04:20:54,919 : INFO : test_DynamicContent : 
+2021-03-01 04:20:55,613 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="caa7015053fb59f2fbed7256543de5ad", element="2288ffad-b6ce-4877-b349-056605223a1b")>, <selenium.webdriver.remote.webelement.WebElement (session="caa7015053fb59f2fbed7256543de5ad", element="48798576-eb5d-4c2b-a137-5ee73dbfd71c")>, <selenium.webdriver.remote.webelement.WebElement (session="caa7015053fb59f2fbed7256543de5ad", element="307ce8d1-97dc-41a9-8f6b-19907e62c69f")>]
+2021-03-01 04:20:55,655 : INFO : test_DynamicContent : 
+2021-03-01 04:20:55,682 : INFO : test_DynamicContent : 
+2021-03-01 04:20:55,707 : INFO : test_DynamicContent : 
+2021-03-01 04:22:58,620 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="77ff2a111a984077056e760266f08d59", element="3cb2f5b0-d15b-4bf2-bba1-1e84dccd502e")>, <selenium.webdriver.remote.webelement.WebElement (session="77ff2a111a984077056e760266f08d59", element="d0120473-bd40-482b-aec5-b4e83c384e07")>, <selenium.webdriver.remote.webelement.WebElement (session="77ff2a111a984077056e760266f08d59", element="c1e10558-6ffe-49f3-8b79-4880618218ff")>]
+2021-03-01 04:22:58,651 : INFO : test_DynamicContent : Consequatur et sed eos ut tempore est et voluptate delectus quaerat dolor ullam et maiores et sequi similique et ratione sed aliquam repellendus temporibus sit corporis voluptas ipsam explicabo enim voluptas quia illum.
+2021-03-01 04:22:58,671 : INFO : test_DynamicContent : Consequatur et sed eos ut tempore est et voluptate delectus quaerat dolor ullam et maiores et sequi similique et ratione sed aliquam repellendus temporibus sit corporis voluptas ipsam explicabo enim voluptas quia illum.
+2021-03-01 04:22:58,694 : INFO : test_DynamicContent : Consequatur et sed eos ut tempore est et voluptate delectus quaerat dolor ullam et maiores et sequi similique et ratione sed aliquam repellendus temporibus sit corporis voluptas ipsam explicabo enim voluptas quia illum.
+2021-03-01 04:22:59,367 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="77ff2a111a984077056e760266f08d59", element="c95110f5-6965-4954-bcc0-afc67f2eebaa")>, <selenium.webdriver.remote.webelement.WebElement (session="77ff2a111a984077056e760266f08d59", element="10b177e4-2390-49dd-bf62-9aa96e577f31")>, <selenium.webdriver.remote.webelement.WebElement (session="77ff2a111a984077056e760266f08d59", element="23caf207-5885-4baa-b9d1-f8a6f5ccbd3c")>]
+2021-03-01 04:22:59,403 : INFO : test_DynamicContent : Quasi itaque dolorem et veniam cupiditate sequi consectetur sapiente repellendus delectus fugit sit qui vitae non soluta molestias ut cum praesentium odio ad nulla architecto velit qui ab quod aut non.
+2021-03-01 04:22:59,430 : INFO : test_DynamicContent : Quasi itaque dolorem et veniam cupiditate sequi consectetur sapiente repellendus delectus fugit sit qui vitae non soluta molestias ut cum praesentium odio ad nulla architecto velit qui ab quod aut non.
+2021-03-01 04:22:59,455 : INFO : test_DynamicContent : Quasi itaque dolorem et veniam cupiditate sequi consectetur sapiente repellendus delectus fugit sit qui vitae non soluta molestias ut cum praesentium odio ad nulla architecto velit qui ab quod aut non.
+2021-03-01 04:27:59,268 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="ce67925d9a2f56ae0a94d68b255b88ac", element="a57bb183-02ff-4157-9fd3-0eaffef18e89")>, <selenium.webdriver.remote.webelement.WebElement (session="ce67925d9a2f56ae0a94d68b255b88ac", element="29b16edd-540b-4841-b0dd-6e781333e302")>, <selenium.webdriver.remote.webelement.WebElement (session="ce67925d9a2f56ae0a94d68b255b88ac", element="9e1f16ea-2774-4342-b120-9f57a14a2ccd")>]
+2021-03-01 04:27:59,268 : INFO : test_DynamicContent : 0
+2021-03-01 04:27:59,299 : INFO : test_DynamicContent : Laboriosam enim optio autem pariatur voluptatum ipsum nam eius eos mollitia consequatur placeat totam perferendis blanditiis ad debitis id eligendi deleniti veniam alias doloremque possimus dignissimos illum nesciunt est ducimus aliquid quibusdam ut labore cupiditate.
+2021-03-01 04:27:59,299 : INFO : test_DynamicContent : 1
+2021-03-01 04:27:59,319 : INFO : test_DynamicContent : Laboriosam enim optio autem pariatur voluptatum ipsum nam eius eos mollitia consequatur placeat totam perferendis blanditiis ad debitis id eligendi deleniti veniam alias doloremque possimus dignissimos illum nesciunt est ducimus aliquid quibusdam ut labore cupiditate.
+2021-03-01 04:27:59,320 : INFO : test_DynamicContent : 2
+2021-03-01 04:27:59,345 : INFO : test_DynamicContent : Laboriosam enim optio autem pariatur voluptatum ipsum nam eius eos mollitia consequatur placeat totam perferendis blanditiis ad debitis id eligendi deleniti veniam alias doloremque possimus dignissimos illum nesciunt est ducimus aliquid quibusdam ut labore cupiditate.
+2021-03-01 04:28:01,681 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="ce67925d9a2f56ae0a94d68b255b88ac", element="d735aa00-8696-453a-8851-041268a3df8e")>, <selenium.webdriver.remote.webelement.WebElement (session="ce67925d9a2f56ae0a94d68b255b88ac", element="5a006ce0-9f9c-470e-aa61-8cd5c0925037")>, <selenium.webdriver.remote.webelement.WebElement (session="ce67925d9a2f56ae0a94d68b255b88ac", element="b98a1be0-6b0b-4388-ad3d-6e2d7813b5f4")>]
+2021-03-01 04:28:01,681 : INFO : test_DynamicContent : 0
+2021-03-01 04:28:01,833 : INFO : test_DynamicContent : Odio in adipisci qui sapiente ut esse assumenda molestias animi ut sit quis commodi illum hic soluta facere repudiandae est itaque perferendis qui ex sit vel suscipit doloribus magnam sed aliquam a qui aspernatur.
+2021-03-01 04:28:01,833 : INFO : test_DynamicContent : 1
+2021-03-01 04:28:01,920 : INFO : test_DynamicContent : Odio in adipisci qui sapiente ut esse assumenda molestias animi ut sit quis commodi illum hic soluta facere repudiandae est itaque perferendis qui ex sit vel suscipit doloribus magnam sed aliquam a qui aspernatur.
+2021-03-01 04:28:01,920 : INFO : test_DynamicContent : 2
+2021-03-01 04:28:02,000 : INFO : test_DynamicContent : Odio in adipisci qui sapiente ut esse assumenda molestias animi ut sit quis commodi illum hic soluta facere repudiandae est itaque perferendis qui ex sit vel suscipit doloribus magnam sed aliquam a qui aspernatur.
+2021-03-06 02:02:55,755 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="c60afcd424cb68ee0cd0f7dd9a39e872", element="a7b5e7bd-ce81-4adf-ba46-27f66a4218a7")>, <selenium.webdriver.remote.webelement.WebElement (session="c60afcd424cb68ee0cd0f7dd9a39e872", element="33c23717-9a97-443b-8728-9611e0acd12b")>, <selenium.webdriver.remote.webelement.WebElement (session="c60afcd424cb68ee0cd0f7dd9a39e872", element="a9cf1060-8103-4150-8096-57b31e409e7e")>]
+2021-03-06 02:02:55,770 : INFO : test_DynamicContent : 0
+2021-03-06 02:02:55,833 : INFO : test_DynamicContent : Laborum soluta adipisci officia dolor non sunt nisi sit iste est quae possimus minus tenetur dolorem error et dolore itaque aut doloribus voluptatem natus quas fugiat nesciunt placeat eveniet nobis culpa quibusdam ut velit qui.
+2021-03-06 02:02:55,833 : INFO : test_DynamicContent : 1
+2021-03-06 02:02:55,860 : INFO : test_DynamicContent : Laborum soluta adipisci officia dolor non sunt nisi sit iste est quae possimus minus tenetur dolorem error et dolore itaque aut doloribus voluptatem natus quas fugiat nesciunt placeat eveniet nobis culpa quibusdam ut velit qui.
+2021-03-06 02:02:55,860 : INFO : test_DynamicContent : 2
+2021-03-06 02:02:55,882 : INFO : test_DynamicContent : Laborum soluta adipisci officia dolor non sunt nisi sit iste est quae possimus minus tenetur dolorem error et dolore itaque aut doloribus voluptatem natus quas fugiat nesciunt placeat eveniet nobis culpa quibusdam ut velit qui.
+2021-03-06 02:02:56,532 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="c60afcd424cb68ee0cd0f7dd9a39e872", element="2385bc20-17a7-418d-83c4-0db45fb405c7")>, <selenium.webdriver.remote.webelement.WebElement (session="c60afcd424cb68ee0cd0f7dd9a39e872", element="ddc7ff02-1a88-4b29-affe-fe2829418453")>, <selenium.webdriver.remote.webelement.WebElement (session="c60afcd424cb68ee0cd0f7dd9a39e872", element="75461f81-cd3a-4bf6-adb8-aadc4b5908a8")>]
+2021-03-06 02:02:56,533 : INFO : test_DynamicContent : 0
+2021-03-06 02:02:56,571 : INFO : test_DynamicContent : Perspiciatis porro ut similique voluptatem soluta distinctio fuga aliquam omnis recusandae nobis natus ipsam ullam excepturi impedit dolorem molestias omnis id ut tenetur doloribus quos laboriosam rerum cum et sapiente est corporis beatae alias fugit.
+2021-03-06 02:02:56,572 : INFO : test_DynamicContent : 1
+2021-03-06 02:02:56,601 : INFO : test_DynamicContent : Perspiciatis porro ut similique voluptatem soluta distinctio fuga aliquam omnis recusandae nobis natus ipsam ullam excepturi impedit dolorem molestias omnis id ut tenetur doloribus quos laboriosam rerum cum et sapiente est corporis beatae alias fugit.
+2021-03-06 02:02:56,601 : INFO : test_DynamicContent : 2
+2021-03-06 02:02:56,625 : INFO : test_DynamicContent : Perspiciatis porro ut similique voluptatem soluta distinctio fuga aliquam omnis recusandae nobis natus ipsam ullam excepturi impedit dolorem molestias omnis id ut tenetur doloribus quos laboriosam rerum cum et sapiente est corporis beatae alias fugit.
+2021-03-06 02:08:40,750 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="8231fac2bd9899911c50dc19d6f21170", element="1f5a9032-33a9-4d0e-95a0-f979e967316f")>]
+2021-03-06 02:08:40,750 : INFO : test_DynamicContent : 0
+2021-03-06 02:08:40,777 : INFO : test_DynamicContent : Corrupti dolores et mollitia exercitationem suscipit cum iste quis et natus harum saepe sint fuga quae dolor consequatur praesentium aut illo facilis atque tenetur dolorem unde sit sed illum fugiat numquam distinctio temporibus quia.
+2021-03-06 02:08:40,777 : INFO : test_DynamicContent : 1
+2021-03-06 02:08:40,777 : ERROR : test_DynamicContent : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000020CA6A04C40>)
+2021-03-06 02:10:53,274 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="d0574e432f7a5a8d81ede493172a0259", element="b46825f2-791e-4ca9-a240-4a4fbf76a680")>]
+2021-03-06 02:10:53,274 : INFO : test_DynamicContent : 0
+2021-03-06 02:10:53,342 : INFO : test_DynamicContent : Eius et fugiat temporibus sint fugit nostrum perferendis minus doloribus vitae excepturi repudiandae a deleniti autem ipsam nihil est corporis enim sed quibusdam veritatis error recusandae similique asperiores deserunt commodi dolore minima rerum.
+2021-03-06 02:10:53,343 : INFO : test_DynamicContent : 1
+2021-03-06 02:10:53,343 : ERROR : test_DynamicContent : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000021A3E203CC0>)
+2021-03-06 02:12:04,565 : WARNING : test_DynamicContent : []
+2021-03-06 02:12:04,565 : INFO : test_DynamicContent : 0
+2021-03-06 02:12:04,566 : ERROR : test_DynamicContent : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x000002611A2FFEC0>)
+2021-03-06 02:16:04,636 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="434d6ef51109fe7a8a2712464580fe83", element="9a9c8c1f-5c01-42f4-8185-50a86901c568")>, <selenium.webdriver.remote.webelement.WebElement (session="434d6ef51109fe7a8a2712464580fe83", element="6c7fde3d-599e-4761-b305-0ac6349632af")>, <selenium.webdriver.remote.webelement.WebElement (session="434d6ef51109fe7a8a2712464580fe83", element="34e179ad-f44d-4238-a239-284966aa38dd")>]
+2021-03-06 02:16:04,636 : INFO : test_DynamicContent : 0
+2021-03-06 02:16:04,669 : INFO : test_DynamicContent : Distinctio facilis sint quae quia minima eius rerum necessitatibus ea qui est voluptates ducimus at commodi sunt aspernatur aut beatae voluptatem sequi sit dolor consectetur quaerat qui aut fugit fugiat reiciendis veniam.
+2021-03-06 02:16:04,670 : INFO : test_DynamicContent : 1
+2021-03-06 02:16:04,689 : INFO : test_DynamicContent : Est non deleniti ut dolorem et et harum quia quia recusandae aut quibusdam et quod perferendis dignissimos voluptates voluptas asperiores sit corrupti adipisci reiciendis odit voluptas voluptatem et rem aliquid fugit debitis maxime.
+2021-03-06 02:16:04,689 : INFO : test_DynamicContent : 2
+2021-03-06 02:16:04,706 : INFO : test_DynamicContent : Quia omnis fugit assumenda dolor placeat cumque facere recusandae aut voluptas alias exercitationem sed fuga inventore mollitia voluptate et animi perspiciatis esse temporibus saepe rerum doloremque dolor aspernatur facilis occaecati sint architecto non.
+2021-03-06 02:16:06,027 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="434d6ef51109fe7a8a2712464580fe83", element="382b1d52-8458-4268-9640-7b80ee859f1a")>, <selenium.webdriver.remote.webelement.WebElement (session="434d6ef51109fe7a8a2712464580fe83", element="1686e54a-956c-4a5d-a9cc-35848cd40e72")>, <selenium.webdriver.remote.webelement.WebElement (session="434d6ef51109fe7a8a2712464580fe83", element="cb5b857a-ea8b-4d72-ba51-1c8d06f11db4")>]
+2021-03-06 02:16:06,027 : INFO : test_DynamicContent : 0
+2021-03-06 02:16:06,044 : INFO : test_DynamicContent : Voluptatibus rem mollitia eos vero aspernatur natus repudiandae dicta sed est quis et a excepturi quo dolore occaecati et dolores quod est cumque accusamus unde similique error architecto nihil distinctio sapiente.
+2021-03-06 02:16:06,045 : INFO : test_DynamicContent : 1
+2021-03-06 02:16:06,066 : INFO : test_DynamicContent : Adipisci quo ab et omnis modi et quia illum nostrum saepe dolor quibusdam voluptatibus quisquam reiciendis et voluptate officia ut voluptatum enim optio deserunt itaque consequatur iure similique molestias quaerat.
+2021-03-06 02:16:06,066 : INFO : test_DynamicContent : 2
+2021-03-06 02:16:06,082 : INFO : test_DynamicContent : Quaerat ducimus non consequatur quisquam quod voluptates nulla minima veniam voluptate qui aut necessitatibus earum eveniet rerum tempora facere quo est perspiciatis ut facilis adipisci perferendis provident sequi eos nesciunt.
+2021-03-06 02:25:58,014 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="690427baf11be54ffc579094e6b4ee34", element="aad52031-9ab7-4984-922b-f05e81807ed1")>, <selenium.webdriver.remote.webelement.WebElement (session="690427baf11be54ffc579094e6b4ee34", element="72ab4d98-f303-473d-927c-9f580a4cf4e7")>, <selenium.webdriver.remote.webelement.WebElement (session="690427baf11be54ffc579094e6b4ee34", element="44a3e91e-0e01-41cc-a936-793a7adb6d19")>]
+2021-03-06 02:25:58,030 : INFO : test_DynamicContent : Dignissimos labore in temporibus esse eos qui consequatur est quis iure minima facere nemo expedita delectus vero omnis officia quas repudiandae suscipit vel necessitatibus aliquid soluta qui nihil eligendi quaerat cum.
+2021-03-06 02:25:58,047 : INFO : test_DynamicContent : Nostrum vitae rerum tempore harum et iure voluptatum omnis qui ipsum perferendis eos voluptatem praesentium expedita recusandae voluptatibus dolor voluptatem molestiae qui fuga quo laboriosam id corrupti officiis ut modi ratione nisi id quas et.
+2021-03-06 02:25:58,064 : INFO : test_DynamicContent : Consequatur vel in error velit quis veniam ut alias dicta molestiae aperiam exercitationem autem ducimus deleniti totam sit illum ex sit ab molestiae eligendi dolorem consequuntur aut architecto ea porro enim ipsam inventore.
+2021-03-06 02:25:59,600 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="690427baf11be54ffc579094e6b4ee34", element="02b29f97-c7b9-4e58-a80d-6a2a676ef731")>, <selenium.webdriver.remote.webelement.WebElement (session="690427baf11be54ffc579094e6b4ee34", element="b8c1eaf1-6937-43fc-8be3-f67696ee13c5")>, <selenium.webdriver.remote.webelement.WebElement (session="690427baf11be54ffc579094e6b4ee34", element="99e355ff-7510-4fe6-999a-71c2d95b7e6f")>]
+2021-03-06 02:25:59,628 : INFO : test_DynamicContent : Sit repellendus eius maiores vel nihil exercitationem commodi nisi ab inventore ut iure suscipit odit ut aspernatur sint debitis doloremque occaecati ea a tempora qui perspiciatis velit odio repudiandae sit corporis delectus excepturi ducimus.
+2021-03-06 02:25:59,645 : INFO : test_DynamicContent : Porro perferendis aut ducimus odio quia tenetur cumque qui dicta neque ut suscipit est veniam quam et soluta qui sed ipsum reprehenderit veritatis placeat sunt autem tempora maxime adipisci distinctio qui et rem enim.
+2021-03-06 02:25:59,674 : INFO : test_DynamicContent : Eum voluptas sed voluptate accusamus saepe blanditiis distinctio eaque fugit voluptatem provident exercitationem nulla officiis nobis eligendi corporis ut necessitatibus est molestiae non quia qui quia ullam et voluptatem minus et repellendus.
+2021-03-06 02:42:16,401 : INFO : test_entry_ad : Entry Ad
+2021-03-06 02:42:16,568 : INFO : test_entry_ad : Entry Ad
+2021-03-06 02:43:41,843 : INFO : test_entry_ad : Entry Ad
+2021-03-06 02:43:42,002 : ERROR : test_entry_ad : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'info'"), <traceback object at 0x0000026CEA56EF80>)
+2021-03-06 02:44:50,668 : INFO : test_entry_ad : Entry Ad
+2021-03-06 02:44:50,829 : ERROR : test_entry_ad : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'info'"), <traceback object at 0x0000029C7654DCC0>)
+2021-03-06 03:08:28,316 : WARNING : test_DynamicContent : []
+2021-03-06 03:08:29,112 : ERROR : test_DynamicContent : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000019EA7AFFDC0>)
+2021-03-06 03:12:46,183 : ERROR : test_exit_intent : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="model-body"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000021205A82880>)
+2021-03-06 03:16:47,899 : INFO : test_exit_intent : Created action object
+2021-03-06 03:16:47,944 : ERROR : test_exit_intent : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="model-body"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000025C03B24A80>)
+2021-03-06 03:20:02,333 : INFO : test_exit_intent : Created action object
+2021-03-06 03:20:02,333 : INFO : test_exit_intent : Created model object
+2021-03-06 03:20:02,333 : INFO : test_exit_intent : CHeck done
+2021-03-06 03:20:02,333 : INFO : test_exit_intent : Mouse moved by offset
+2021-03-06 03:20:02,357 : ERROR : test_exit_intent : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="model-body"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x00000201EF760FC0>)
+2021-03-06 03:22:40,359 : INFO : test_exit_intent : Created action object
+2021-03-06 03:22:40,360 : INFO : test_exit_intent : Created model object
+2021-03-06 03:22:40,361 : INFO : test_exit_intent : CHeck done
+2021-03-06 03:22:40,686 : INFO : test_exit_intent : Mouse moved by offset
+2021-03-06 03:22:40,731 : ERROR : test_exit_intent : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="model-body"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000022D2E3C1EC0>)
+2021-03-06 03:36:14,922 : INFO : test_download : First file downloaded
+2021-03-06 03:37:11,398 : INFO : test_download : First file downloaded
+2021-03-06 15:53:34,839 : ERROR : test_BasicAuth : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000024F6DB500C0>)
+2021-03-06 15:53:42,859 : INFO : test_BrokenImg : Broken Image link found.
+2021-03-06 15:53:49,844 : INFO : test_BrokenImg : Links of image found.
+2021-03-06 15:53:51,878 : INFO : test_BrokenImg : <img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"> is working fine.
+2021-03-06 15:53:53,496 : WARNING : test_BrokenImg : <img src="asdf.jpg"> is broken.
+2021-03-06 15:53:55,070 : WARNING : test_BrokenImg : <img src="hjkl.jpg"> is broken.
+2021-03-06 15:53:56,972 : INFO : test_BrokenImg : <img src="img/avatar-blank.jpg"> is working fine.
+2021-03-06 15:54:10,282 : INFO : test_checkBox : Checkbox 1 is checked
+2021-03-06 15:54:10,375 : INFO : test_checkBox : Checkbox 2 is unchecked
+2021-03-06 15:54:26,471 : INFO : test_ContextMenu : The Alert is working fine
+2021-03-06 15:54:26,482 : INFO : test_ContextMenu : The alert is closed.
+2021-03-06 15:54:41,718 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-06 15:54:45,413 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-06 15:54:49,586 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Gallery Elemental Selenium
+2021-03-06 15:54:53,197 : INFO : test_DisappearingElements : Gallery button found
+2021-03-06 15:56:51,454 : INFO : test_dragdAndDrop : Drag and Drop completed!
+2021-03-06 15:57:05,696 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="5ba152e65f32f30dfaf57af7f290b8ab", element="e2e2254e-3dd8-487a-991a-c3b001489918")>, <selenium.webdriver.remote.webelement.WebElement (session="5ba152e65f32f30dfaf57af7f290b8ab", element="e1573e34-07e8-45c5-aaf0-f9c309e4ed68")>, <selenium.webdriver.remote.webelement.WebElement (session="5ba152e65f32f30dfaf57af7f290b8ab", element="d8aacc37-af74-48d8-8870-ccfaf3013c47")>]
+2021-03-06 15:57:05,717 : INFO : test_DynamicContent : Voluptatem saepe non sed alias voluptas voluptatem id rem qui est deserunt earum quae enim aperiam ab nostrum provident iusto amet rerum neque quia excepturi qui omnis inventore aut dolore.
+2021-03-06 15:57:05,734 : INFO : test_DynamicContent : Alias omnis est a aliquid nihil perspiciatis mollitia error possimus voluptatem sequi dolores eius illum aut numquam veniam quasi voluptas est deleniti est sunt saepe aperiam nesciunt accusamus ut porro laudantium qui eos.
+2021-03-06 15:57:05,752 : INFO : test_DynamicContent : Maxime velit et eos aut commodi mollitia alias recusandae incidunt quia quis dolorum aut exercitationem provident nam doloremque nostrum hic omnis autem nobis distinctio inventore tenetur nulla vel aspernatur sed et.
+2021-03-06 15:57:06,503 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="5ba152e65f32f30dfaf57af7f290b8ab", element="3a0ed44f-e042-4494-92f9-e87d37b96a36")>, <selenium.webdriver.remote.webelement.WebElement (session="5ba152e65f32f30dfaf57af7f290b8ab", element="1d38c484-60b4-4d5f-8966-53c007d67e2d")>, <selenium.webdriver.remote.webelement.WebElement (session="5ba152e65f32f30dfaf57af7f290b8ab", element="4b187e57-6549-4230-8fd9-c7fabb1adebd")>]
+2021-03-06 15:57:06,527 : INFO : test_DynamicContent : Adipisci at error architecto amet aliquid rerum non libero porro voluptas quos sunt eum neque soluta possimus magni unde quia placeat rem dolores veniam voluptas est dicta eligendi repellat hic ex laboriosam.
+2021-03-06 15:57:06,548 : INFO : test_DynamicContent : Fugiat id commodi dolor molestiae sint sed quaerat labore et nisi adipisci asperiores quod voluptatem nemo neque cumque tempora ut facere eligendi magni possimus aut est voluptatem sit earum id.
+2021-03-06 15:57:06,566 : INFO : test_DynamicContent : Sit qui autem corrupti aspernatur quibusdam sint incidunt odit omnis libero ratione repudiandae facere blanditiis consequatur eligendi alias ut enim quo ut fugiat ab mollitia est eaque eos et dolore ut dolorem.
+2021-03-06 15:57:25,715 : INFO : test_entry_ad : Entry Ad
+2021-03-06 15:57:25,819 : ERROR : test_entry_ad : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'info'"), <traceback object at 0x0000024F6DB50340>)
+2021-03-06 15:57:41,800 : ERROR : test_ab : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x0000024F6E489100>)
+2021-03-06 15:57:57,223 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 1
+2021-03-06 15:57:57,223 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 1
+2021-03-06 15:57:57,286 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 2
+2021-03-06 15:57:57,286 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 2
+2021-03-06 15:57:57,337 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 3
+2021-03-06 15:57:57,337 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 3
+2021-03-06 15:57:57,406 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 4
+2021-03-06 15:57:57,406 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 4
+2021-03-06 15:57:57,471 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 5
+2021-03-06 15:57:57,471 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 5
+2021-03-06 15:57:57,528 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 6
+2021-03-06 15:57:57,528 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 6
+2021-03-06 15:57:57,571 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 7
+2021-03-06 15:57:57,571 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 7
+2021-03-06 15:57:57,621 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 8
+2021-03-06 15:57:57,621 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 8
+2021-03-06 15:57:57,665 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 9
+2021-03-06 15:57:57,666 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 9
+2021-03-06 15:57:57,714 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 10
+2021-03-06 15:57:57,714 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 10
+2021-03-06 15:57:57,756 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 11
+2021-03-06 15:57:57,756 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 11
+2021-03-06 15:57:57,806 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 12
+2021-03-06 15:57:57,806 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 12
+2021-03-06 15:57:57,854 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 13
+2021-03-06 15:57:57,854 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 13
+2021-03-06 15:57:57,896 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 14
+2021-03-06 15:57:57,898 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 14
+2021-03-06 15:57:57,946 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 15
+2021-03-06 15:57:57,946 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 15
+2021-03-06 15:57:57,995 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 16
+2021-03-06 15:57:57,995 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 16
+2021-03-06 15:57:58,040 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 17
+2021-03-06 15:57:58,040 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 17
+2021-03-06 15:57:58,089 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 18
+2021-03-06 15:57:58,090 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 18
+2021-03-06 15:57:58,139 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 19
+2021-03-06 15:57:58,139 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 19
+2021-03-06 15:57:58,186 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 20
+2021-03-06 15:57:58,192 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 20
+2021-03-06 15:57:58,246 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 21
+2021-03-06 15:57:58,246 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 21
+2021-03-06 15:57:58,296 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 22
+2021-03-06 15:57:58,296 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 22
+2021-03-06 15:57:58,341 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 23
+2021-03-06 15:57:58,341 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 23
+2021-03-06 15:57:58,388 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 24
+2021-03-06 15:57:58,389 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 24
+2021-03-06 15:57:58,429 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 25
+2021-03-06 15:57:58,429 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 25
+2021-03-06 15:57:58,462 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 26
+2021-03-06 15:57:58,462 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 26
+2021-03-06 15:57:58,493 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 27
+2021-03-06 15:57:58,494 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 27
+2021-03-06 15:57:58,528 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 28
+2021-03-06 15:57:58,529 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 28
+2021-03-06 15:57:58,559 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 29
+2021-03-06 15:57:58,559 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 29
+2021-03-06 15:57:58,597 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 30
+2021-03-06 15:57:58,597 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 30
+2021-03-06 15:57:58,635 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 31
+2021-03-06 15:57:58,635 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 31
+2021-03-06 15:57:58,669 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 32
+2021-03-06 15:57:58,669 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 32
+2021-03-06 15:57:58,707 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 33
+2021-03-06 15:57:58,707 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 33
+2021-03-06 15:57:58,745 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 34
+2021-03-06 15:57:58,746 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 34
+2021-03-06 15:57:58,781 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 35
+2021-03-06 15:57:58,781 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 35
+2021-03-06 15:57:58,814 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 36
+2021-03-06 15:57:58,814 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 36
+2021-03-06 15:57:58,845 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 37
+2021-03-06 15:57:58,846 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 37
+2021-03-06 15:57:58,879 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 38
+2021-03-06 15:57:58,879 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 38
+2021-03-06 15:57:58,908 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 39
+2021-03-06 15:57:58,908 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 39
+2021-03-06 15:57:58,939 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 40
+2021-03-06 15:57:58,939 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 40
+2021-03-06 15:57:58,970 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 41
+2021-03-06 15:57:58,970 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 41
+2021-03-06 15:57:59,000 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 42
+2021-03-06 15:57:59,000 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 42
+2021-03-06 15:57:59,032 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 43
+2021-03-06 15:57:59,033 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 43
+2021-03-06 15:57:59,064 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 44
+2021-03-06 15:57:59,065 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 44
+2021-03-06 15:57:59,101 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 45
+2021-03-06 15:57:59,101 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 45
+2021-03-06 15:57:59,137 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 46
+2021-03-06 15:57:59,137 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 46
+2021-03-06 15:57:59,170 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 47
+2021-03-06 15:57:59,170 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 47
+2021-03-06 15:57:59,203 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 48
+2021-03-06 15:57:59,203 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 48
+2021-03-06 15:57:59,234 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 49
+2021-03-06 15:57:59,234 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 49
+2021-03-06 15:58:18,224 : INFO : test_download : First file downloaded
+2021-03-06 15:58:32,592 : INFO : test_dropdown : Option selected from the dropdown and hence the case is completed!
+2021-03-06 15:58:52,083 : INFO : test_exit_intent : Created action object
+2021-03-06 15:58:52,083 : INFO : test_exit_intent : Created model object
+2021-03-06 15:58:52,083 : INFO : test_exit_intent : CHeck done
+2021-03-06 15:58:52,358 : INFO : test_exit_intent : Mouse moved by offset
+2021-03-06 15:58:52,401 : ERROR : test_exit_intent : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="model-body"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000024F6E498B40>)
+2021-03-06 16:11:10,138 : INFO : test_upload_file : FIle upload page opened
+2021-03-06 16:11:10,139 : INFO : test_upload_file : Location successfully picked
+2021-03-06 16:11:10,151 : INFO : test_upload_file : The Choose File button selected
+2021-03-06 16:11:10,214 : INFO : test_upload_file : Value sent to the button
+2021-03-06 16:13:58,762 : INFO : test_upload_file : FIle upload page opened
+2021-03-06 16:13:58,770 : INFO : test_upload_file : Location successfully picked
+2021-03-06 16:13:58,824 : INFO : test_upload_file : The Choose File button selected
+2021-03-06 16:13:58,876 : INFO : test_upload_file : Value sent to the button
+2021-03-06 16:14:04,410 : INFO : test_upload_file : Clicked on Upload button
+2021-03-06 17:03:59,638 : INFO : test_upload_file : FIle upload page opened
+2021-03-06 17:03:59,648 : INFO : test_upload_file : Location successfully picked
+2021-03-06 17:03:59,673 : INFO : test_upload_file : The Choose File button selected
+2021-03-06 17:03:59,712 : INFO : test_upload_file : Value sent to the button
+2021-03-06 17:04:05,950 : INFO : test_upload_file : Clicked on Upload button
+2021-03-06 17:04:05,991 : INFO : test_upload_file : File uploaded successfully
+2021-03-07 12:25:18,773 : INFO : test_upload_file : FIle upload page opened
+2021-03-07 12:25:18,889 : INFO : test_upload_file : Location successfully picked
+2021-03-07 12:25:18,903 : INFO : test_upload_file : The Choose File button selected
+2021-03-07 12:25:18,939 : INFO : test_upload_file : Value sent to the button
+2021-03-07 12:25:24,461 : INFO : test_upload_file : Clicked on Upload button
+2021-03-07 12:25:24,506 : INFO : test_upload_file : File uploaded successfully
+2021-03-07 12:27:05,335 : ERROR : test_forgot_pass : (<class 'selenium.common.exceptions.InvalidSelectorException'>, InvalidSelectorException('invalid selector: Unable to locate an element with the xpath expression //button[@id="form_submit] because of the following error:\nSyntaxError: Failed to execute \'evaluate\' on \'Document\': The string \'//button[@id="form_submit]\' is not a valid XPath expression.\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000019103620EC0>)
+2021-03-07 12:28:10,026 : WARNING : test_forgot_pass : The following error occured: Internal Server Error
+2021-03-07 20:10:08,051 : INFO : test_formauthentication : Logged in successfully!
+2021-03-07 20:10:19,282 : ERROR : test_formauthentication : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"div[@class="flash success"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001E0500B2E40>)
+2021-03-07 20:12:11,088 : INFO : test_formauthentication : Logged in successfully!
+2021-03-07 20:12:13,318 : INFO : test_formauthentication : Logged out successfully!
+2021-03-07 21:22:20,516 : ERROR : test_frames : (<class 'AttributeError'>, AttributeError("'TestFrames' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x0000028F10B91480>)
+2021-03-07 21:23:34,224 : ERROR : test_frames : (<class 'AttributeError'>, AttributeError("'TestFrames' object has no attribute 'find_element_by_xpath'"), <traceback object at 0x000001A8A9AD62C0>)
+2021-03-07 21:25:12,431 : INFO : test_frames : Navigated to the correct page
+2021-03-07 21:25:12,448 : ERROR : test_frames : (<class 'AttributeError'>, AttributeError("'SwitchTo' object has no attribute 'self'"), <traceback object at 0x000002060DE59C80>)
+2021-03-07 21:26:47,552 : INFO : test_frames : Navigated to the correct page
+2021-03-07 21:37:53,645 : ERROR : test_frames : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name="frame-top"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000027CD1DA1D40>)
+2021-03-07 21:59:39,155 : INFO : test_frames : Navigated to the correct page
+2021-03-07 21:59:56,558 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name="frame-top"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000019B3B128C00>)
+2021-03-07 22:09:34,091 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name="frame-top"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001A88E48DFC0>)
+2021-03-07 22:11:30,164 : INFO : test_frames : Navigated to the correct page
+2021-03-07 22:11:50,707 : INFO : test_nestedframes : LEFT
+2021-03-07 22:11:50,720 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//frame[@name="frame-middle"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001BEDF989AC0>)
+2021-03-07 22:14:25,340 : INFO : test_frames : Navigated to the correct page
+2021-03-07 22:14:48,330 : INFO : test_nestedframes : LEFT
+2021-03-07 22:14:48,346 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.StaleElementReferenceException'>, StaleElementReferenceException('stale element reference: element is not attached to the page document\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001F8222C9A40>)
+2021-03-07 22:16:31,960 : INFO : test_frames : Navigated to the correct page
+2021-03-07 22:16:51,208 : INFO : test_nestedframes : LEFT
+2021-03-07 22:16:52,232 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.StaleElementReferenceException'>, StaleElementReferenceException('stale element reference: element is not attached to the page document\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001B7335BC940>)
+2021-03-07 22:21:08,291 : INFO : test_frames : Navigated to the correct page
+2021-03-07 22:21:25,763 : INFO : test_nestedframes : MIDDLE
+2021-03-07 22:21:25,782 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//frame[@name="frame-right"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001E8D6D4AB80>)
+2021-03-07 22:24:38,334 : INFO : test_frames : Navigated to the correct page
+2021-03-07 22:24:58,313 : INFO : test_nestedframes : MIDDLE
+2021-03-07 22:24:58,329 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"/html/frameset/frame[3]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000002994D1BAC40>)
+2021-03-07 22:30:03,666 : INFO : test_frames : Navigated to the correct page
+2021-03-07 22:30:34,285 : INFO : test_nestedframes : MIDDLE
+2021-03-07 22:30:34,304 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"/html/frameset/frame[3]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001DE260092C0>)
+2021-03-07 22:32:40,860 : INFO : test_frames : Navigated to the correct page
+2021-03-07 22:33:04,492 : INFO : test_nestedframes : MIDDLE
+2021-03-07 22:33:04,495 : INFO : test_nestedframes : Switched to main frame
+2021-03-07 22:33:04,510 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//frame[@name="frame-right"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000026D251BAC40>)
+2021-03-08 00:28:28,428 : ERROR : test_geolocation : (<class 'AttributeError'>, AttributeError("'TestGeolocation' object has no attribute 'goa'"), <traceback object at 0x000001551C71A2C0>)
+2021-03-08 00:29:25,688 : INFO : test_geolocation : Clicked the 'Where am I?' button
+2021-03-08 00:29:26,046 : INFO : test_geolocation : 30.900965
+2021-03-08 00:29:26,047 : INFO : test_geolocation : 75.8572758
+2021-03-08 00:30:25,632 : INFO : test_geolocation : Clicked the 'Where am I?' button
+2021-03-08 00:30:25,927 : INFO : test_geolocation : Latitude: 30.900965
+2021-03-08 00:30:25,927 : INFO : test_geolocation : Longitude: 75.8572758
+2021-03-08 00:41:33,255 : ERROR : test_geolocation : (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('chrome not reachable\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000002305CC3F900>)
+2021-03-08 00:42:02,489 : ERROR : test_horizontal_slider : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()="Horizontal SLider"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001F8B01F1A80>)
+2021-03-08 00:42:51,757 : ERROR : test_horizontal_slider : (<class 'TypeError'>, TypeError('can only concatenate str (not "float") to str'), <traceback object at 0x0000019001CF62C0>)
+2021-03-08 00:45:41,894 : INFO : test_horizontal_slider : Working fine
+2021-03-08 00:48:01,541 : INFO : test_horizontal_slider : Working fine
+2021-03-08 00:58:36,448 : INFO : test_hovers : name: user1
+2021-03-08 00:58:36,994 : INFO : test_hovers : name: user1
+2021-03-08 00:58:37,806 : INFO : test_hovers : name: user1
+2021-03-08 00:59:22,365 : INFO : test_hovers : name: user1
+2021-03-08 00:59:22,970 : INFO : test_hovers : 
+2021-03-08 00:59:23,802 : INFO : test_hovers : 
+2021-03-08 01:00:46,440 : INFO : test_hovers : name: user1
+2021-03-08 01:00:49,062 : INFO : test_hovers : 
+2021-03-08 01:00:51,946 : INFO : test_hovers : 
+2021-03-08 01:03:25,886 : INFO : test_hovers : 
+2021-03-08 01:03:28,479 : INFO : test_hovers : 
+2021-03-08 01:07:24,898 : INFO : test_hovers : name: user1
+2021-03-08 01:07:25,464 : INFO : test_hovers : 
+2021-03-08 01:07:26,325 : INFO : test_hovers : 
+2021-03-08 01:08:05,124 : INFO : test_hovers : name: user1
+2021-03-08 01:08:05,676 : INFO : test_hovers : 
+2021-03-08 01:08:06,539 : INFO : test_hovers : 
+2021-03-08 01:17:30,214 : INFO : test_hovers : 
+2021-03-08 01:17:30,829 : INFO : test_hovers : 
+2021-03-08 01:18:47,732 : INFO : test_hovers : 
+2021-03-08 01:18:48,331 : INFO : test_hovers : name: user2
+2021-03-08 01:18:49,232 : INFO : test_hovers : 
+2021-03-08 01:19:41,330 : INFO : test_hovers : name: user1
+2021-03-08 01:19:41,962 : INFO : test_hovers : name: user2
+2021-03-08 01:19:42,852 : INFO : test_hovers : name: user3
+2021-03-09 01:05:18,245 : ERROR : test_infinite_class : (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x000002933D15BDC0>)
+2021-03-09 01:06:03,539 : INFO : test_infinite_class : Scrolled 1 times
+2021-03-09 01:06:05,555 : INFO : test_infinite_class : Scrolled 2 times
+2021-03-09 01:06:07,574 : INFO : test_infinite_class : Scrolled 3 times
+2021-03-09 01:06:09,596 : INFO : test_infinite_class : Scrolled 4 times
+2021-03-09 01:06:11,609 : INFO : test_infinite_class : Scrolled 5 times
+2021-03-09 01:06:13,626 : INFO : test_infinite_class : Scrolled 6 times
+2021-03-09 01:06:15,642 : INFO : test_infinite_class : Scrolled 7 times
+2021-03-09 01:06:17,656 : INFO : test_infinite_class : Scrolled 8 times
+2021-03-09 01:06:19,680 : INFO : test_infinite_class : Scrolled 9 times
+2021-03-09 01:06:21,695 : INFO : test_infinite_class : Scrolled 10 times
+2021-03-09 01:06:23,817 : INFO : test_infinite_class : Scrolled 11 times
+2021-03-09 01:06:25,847 : INFO : test_infinite_class : Scrolled 12 times
+2021-03-09 01:06:27,871 : INFO : test_infinite_class : Scrolled 13 times
+2021-03-09 01:06:29,896 : INFO : test_infinite_class : Scrolled 14 times
+2021-03-09 01:06:31,913 : INFO : test_infinite_class : Scrolled 15 times
+2021-03-09 01:06:46,145 : ERROR : test_infinite_class : (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('chrome not reachable\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000028D912A0C00>)
+2021-03-09 01:19:39,728 : ERROR : test_inputs : (<class 'ValueError'>, ValueError("invalid literal for int() with base 10: ''"), <traceback object at 0x000002333F0B7C40>)
+2021-03-09 01:20:56,667 : ERROR : test_inputs : (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x000002601A7D6C40>)
+2021-03-09 01:21:35,577 : ERROR : test_inputs : (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x000002767D20B340>)
+2021-03-09 01:22:45,708 : ERROR : test_inputs : (<class 'ValueError'>, ValueError("invalid literal for int() with base 10: ''"), <traceback object at 0x000001C9A5CB8200>)
+2021-03-09 01:23:18,766 : ERROR : test_inputs : (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x00000232B1C39F00>)
+2021-03-09 01:27:32,887 : ERROR : test_inputs : (<class 'ValueError'>, ValueError("could not convert string to float: ''"), <traceback object at 0x0000021ED11A9180>)
+2021-03-09 01:30:10,981 : INFO : test_inputs : Working fine
+2021-03-09 22:07:30,971 : INFO : test_alerts : First Button
+2021-03-09 22:07:31,109 : ERROR : test_alerts : (<class 'selenium.common.exceptions.UnexpectedAlertPresentException'>, UnexpectedAlertPresentException('unexpected alert open: {Alert text : I am a JS Alert}\n  (Session info: chrome=88.0.4324.190)', None, None, 'I am a JS Alert'), <traceback object at 0x000001E065470FC0>)
+2021-03-09 22:10:09,063 : INFO : test_alerts : First Button
+2021-03-09 22:10:09,133 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:10:09,168 : ERROR : test_alerts : (<class 'TypeError'>, TypeError("argument of type 'WebElement' is not iterable"), <traceback object at 0x000001C9FD1C6340>)
+2021-03-09 22:25:13,898 : INFO : test_alerts : First Button
+2021-03-09 22:25:14,103 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:25:14,169 : ERROR : test_alerts : (<class 'TypeError'>, TypeError("argument of type 'WebElement' is not iterable"), <traceback object at 0x0000016A6A88F440>)
+2021-03-09 22:26:11,144 : ERROR : test_alerts : (<class 'selenium.common.exceptions.WebDriverException'>, WebDriverException('chrome not reachable\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001A0959DDF40>)
+2021-03-09 22:26:28,967 : INFO : test_alerts : First Button
+2021-03-09 22:26:29,032 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:26:33,057 : ERROR : test_alerts : (<class 'TypeError'>, TypeError("argument of type 'WebElement' is not iterable"), <traceback object at 0x000001EDF937B600>)
+2021-03-09 22:27:09,467 : INFO : test_alerts : First Button
+2021-03-09 22:27:09,581 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:27:11,599 : INFO : test_alerts : Here
+2021-03-09 22:27:13,669 : ERROR : test_alerts : (<class 'TypeError'>, TypeError("argument of type 'WebElement' is not iterable"), <traceback object at 0x0000024FEE856E40>)
+2021-03-09 22:28:29,118 : INFO : test_alerts : First Button
+2021-03-09 22:28:29,199 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:28:31,210 : INFO : test_alerts : Here
+2021-03-09 22:28:33,722 : INFO : test_alerts : First alert working fine.
+2021-03-09 22:28:33,722 : INFO : test_alerts : Second Button
+2021-03-09 22:28:33,790 : INFO : test_alerts : Alert box text is: I am a JS Confirm
+2021-03-09 22:28:33,794 : CRITICAL : test_alerts : Second alert not working
+2021-03-09 22:28:33,794 : INFO : test_alerts : Third Button
+2021-03-09 22:28:33,902 : INFO : test_alerts : Alert box text is: I am a JS prompt
+2021-03-09 22:28:33,905 : CRITICAL : test_alerts : Third alert not working
+2021-03-09 22:29:30,318 : INFO : test_alerts : First Button
+2021-03-09 22:29:30,449 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:29:32,467 : INFO : test_alerts : Here
+2021-03-09 22:29:34,478 : ERROR : test_alerts : (<class 'AttributeError'>, AttributeError("'TestAlerts' object has no attribute 'p'"), <traceback object at 0x0000019DCA17C100>)
+2021-03-09 22:31:09,563 : INFO : test_alerts : First Button
+2021-03-09 22:31:09,739 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:31:11,812 : INFO : test_alerts : Here
+2021-03-09 22:31:13,867 : INFO : test_alerts : First alert working fine.
+2021-03-09 22:31:13,867 : INFO : test_alerts : Second Button
+2021-03-09 22:31:13,957 : ERROR : test_alerts : (<class 'selenium.common.exceptions.UnexpectedAlertPresentException'>, UnexpectedAlertPresentException('unexpected alert open: {Alert text : I am a JS Confirm}\n  (Session info: chrome=88.0.4324.190)', None, None, 'I am a JS Confirm'), <traceback object at 0x0000025B7F33D940>)
+2021-03-09 22:34:17,804 : INFO : test_alerts : First Button
+2021-03-09 22:34:17,946 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:34:19,966 : INFO : test_alerts : Here
+2021-03-09 22:34:22,006 : INFO : test_alerts : First alert working fine.
+2021-03-09 22:34:22,006 : INFO : test_alerts : Second Button
+2021-03-09 22:34:22,059 : INFO : test_alerts : Alert box text is: I am a JS Confirm
+2021-03-09 22:34:22,099 : INFO : test_alerts : Second alert working fine.
+2021-03-09 22:34:22,100 : INFO : test_alerts : Third Button
+2021-03-09 22:34:22,205 : INFO : test_alerts : Alert box text is: I am a JS prompt
+2021-03-09 22:34:22,242 : INFO : test_alerts : Third alert working fine.
+2021-03-09 22:50:18,793 : INFO : test_alerts : First Button
+2021-03-09 22:50:18,874 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-09 22:50:20,878 : INFO : test_alerts : Here
+2021-03-09 22:50:22,919 : INFO : test_alerts : First alert working fine.
+2021-03-09 22:50:22,919 : INFO : test_alerts : Second Button
+2021-03-09 22:50:22,973 : INFO : test_alerts : Alert box text is: I am a JS Confirm
+2021-03-09 22:50:22,999 : INFO : test_alerts : Second alert working fine.
+2021-03-09 22:50:23,000 : INFO : test_alerts : Third Button
+2021-03-09 22:50:23,076 : INFO : test_alerts : Alert box text is: I am a JS prompt
+2021-03-09 22:50:23,105 : INFO : test_alerts : Third alert working fine.
+2021-03-09 22:50:57,740 : INFO : test_key_presses : Page opened successfully
+2021-03-09 22:50:57,767 : CRITICAL : test_key_presses : Key not detected successfully
+2021-03-09 22:50:57,783 : CRITICAL : test_key_presses : Key not detected successfully
+2021-03-09 22:52:26,234 : INFO : test_key_presses : Page opened successfully
+2021-03-09 22:52:26,353 : INFO : test_key_presses : Key detected successfully
+2021-03-09 22:52:26,430 : INFO : test_key_presses : Key detected successfully
+2021-03-09 23:10:08,172 : INFO : test_windows : Opened page successfully
+2021-03-09 23:10:08,456 : INFO : test_windows : New window opened
+2021-03-09 23:10:09,240 : INFO : test_windows : Window switched successfully
+2021-03-09 23:10:09,360 : INFO : test_windows : Window switched successfully
+2021-03-09 23:23:39,299 : INFO : test_file_download : Page opened successfully
+2021-03-09 23:23:39,303 : ERROR : test_file_download : (<class 'selenium.common.exceptions.NoAlertPresentException'>, NoAlertPresentException('no such alert\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000002BA2C0CEE80>)
+2021-03-09 23:30:24,116 : INFO : test_file_download : Page opened successfully
+2021-03-09 23:30:24,124 : ERROR : test_file_download : (<class 'selenium.common.exceptions.NoAlertPresentException'>, NoAlertPresentException('no such alert\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000021CCEEBC400>)
+2021-03-11 23:51:39,124 : INFO : test_frames : Navigated to the correct page
+2021-03-11 23:52:01,350 : INFO : test_nestedframes : LEFT
+2021-03-11 23:52:01,354 : INFO : test_nestedframes : Switched to main frame
+2021-03-11 23:52:01,377 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//frame[@name="frame-middle"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x000001E23F2EF6C0>)
+2021-03-11 23:53:04,898 : INFO : test_frames : Navigated to the correct page
+2021-03-11 23:53:19,456 : INFO : test_nestedframes : LEFT
+2021-03-11 23:53:19,459 : INFO : test_nestedframes : Switched to main frame
+2021-03-11 23:53:19,547 : INFO : test_nestedframes : MIDDLE
+2021-03-11 23:53:19,553 : INFO : test_nestedframes : Switched to main frame
+2021-03-11 23:53:19,577 : ERROR : test_nestedframes : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//frame[@name="frame-right"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x00000228BA229EC0>)
+2021-03-11 23:54:26,551 : INFO : test_nestedframes : LEFT
+2021-03-11 23:54:26,556 : INFO : test_nestedframes : Switched to main frame
+2021-03-11 23:54:26,647 : INFO : test_nestedframes : MIDDLE
+2021-03-11 23:54:26,650 : INFO : test_nestedframes : Switched to main frame
+2021-03-11 23:54:26,748 : INFO : test_nestedframes : RIGHT
+2021-03-11 23:54:26,818 : INFO : test_nestedframes : BOTTOM
+2021-03-14 02:08:07,099 : ERROR : test_BasicAuth : (<class 'IndexError'>, IndexError('list index out of range'), <traceback object at 0x0000022B9DB65A40>)
+2021-03-14 02:08:13,854 : INFO : test_BrokenImg : Broken Image link found.
+2021-03-14 02:08:19,945 : INFO : test_BrokenImg : Links of image found.
+2021-03-14 02:08:22,504 : INFO : test_BrokenImg : <img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"> is working fine.
+2021-03-14 02:08:23,590 : WARNING : test_BrokenImg : <img src="asdf.jpg"> is broken.
+2021-03-14 02:08:24,865 : WARNING : test_BrokenImg : <img src="hjkl.jpg"> is broken.
+2021-03-14 02:08:26,152 : INFO : test_BrokenImg : <img src="img/avatar-blank.jpg"> is working fine.
+2021-03-14 02:08:45,588 : INFO : test_checkBox : Checkbox 1 is checked
+2021-03-14 02:08:45,692 : INFO : test_checkBox : Checkbox 2 is unchecked
+2021-03-14 02:08:59,357 : INFO : test_ContextMenu : The Alert is working fine
+2021-03-14 02:08:59,375 : INFO : test_ContextMenu : The alert is closed.
+2021-03-14 02:09:13,537 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-14 02:09:17,178 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-14 02:09:21,396 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Elemental Selenium
+2021-03-14 02:09:25,011 : INFO : test_DisappearingElements : Current buttons are:  Home About Contact Us Portfolio Gallery Elemental Selenium
+2021-03-14 02:09:28,399 : INFO : test_DisappearingElements : Gallery button found
+2021-03-14 02:11:32,198 : INFO : test_dragdAndDrop : Drag and Drop completed!
+2021-03-14 02:11:46,989 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="69756b4b70e6bd1784acd60ce9511b7b", element="12a66335-10c0-48d4-bf43-77bac081f2dd")>, <selenium.webdriver.remote.webelement.WebElement (session="69756b4b70e6bd1784acd60ce9511b7b", element="02cf12f9-b607-4940-bd6b-8c062a03b1bb")>, <selenium.webdriver.remote.webelement.WebElement (session="69756b4b70e6bd1784acd60ce9511b7b", element="336781fd-f83f-4346-9fbf-54577b0c4d22")>]
+2021-03-14 02:11:47,030 : INFO : test_DynamicContent : Quia et dolorum temporibus consequatur amet sunt vel nisi pariatur error ex ab fugiat quo non ducimus quod facilis molestias sit sit ut dolor sequi qui non natus exercitationem repudiandae reprehenderit dolores nihil.
+2021-03-14 02:11:47,060 : INFO : test_DynamicContent : Cumque dignissimos natus voluptatem doloribus provident atque et recusandae dolorum ducimus vero quasi sunt et qui reprehenderit tenetur ipsa animi eligendi et aperiam ipsum impedit quia et doloremque exercitationem aspernatur rerum culpa.
+2021-03-14 02:11:47,075 : INFO : test_DynamicContent : Minus molestiae vel mollitia quis facilis consequatur error autem nam quae placeat et sint in cum architecto occaecati pariatur alias est et culpa corporis voluptatem consequatur vel iusto id beatae voluptatem.
+2021-03-14 02:11:48,676 : WARNING : test_DynamicContent : [<selenium.webdriver.remote.webelement.WebElement (session="69756b4b70e6bd1784acd60ce9511b7b", element="3ddb2eed-997f-486c-9811-86ddf442d8a5")>, <selenium.webdriver.remote.webelement.WebElement (session="69756b4b70e6bd1784acd60ce9511b7b", element="65de9ed9-cb1b-4482-81f9-c5ffccef61f7")>, <selenium.webdriver.remote.webelement.WebElement (session="69756b4b70e6bd1784acd60ce9511b7b", element="d85b9be3-9c81-4d4b-ae03-d97135162c2c")>]
+2021-03-14 02:11:48,691 : INFO : test_DynamicContent : Quis nobis quia fugit dignissimos odit velit reiciendis et molestiae et molestias vel iusto incidunt consequatur et soluta omnis perferendis error sit quasi deserunt ea rerum dolores totam minima officia labore inventore beatae cum rerum.
+2021-03-14 02:11:48,705 : INFO : test_DynamicContent : Velit voluptatem magnam porro vitae optio ratione quos et ipsam a doloremque tenetur maxime debitis similique distinctio est consectetur officia molestias qui cumque earum odio nihil culpa omnis suscipit quia voluptas reprehenderit provident harum.
+2021-03-14 02:11:48,721 : INFO : test_DynamicContent : Dolorem voluptatem in omnis quae velit autem eaque voluptatem doloremque nulla eligendi et voluptas culpa non accusantium et quisquam voluptatum ut sit facere laboriosam dolor sit rem voluptatem sit nesciunt voluptates accusamus molestias.
+2021-03-14 02:12:07,771 : INFO : test_entry_ad : Entry Ad
+2021-03-14 02:12:08,176 : ERROR : test_entry_ad : (<class 'AttributeError'>, AttributeError("'WebDriver' object has no attribute 'info'"), <traceback object at 0x0000022B9DBB6E40>)
+2021-03-14 02:12:23,480 : INFO : test_file_download : Page opened successfully
+2021-03-14 02:12:23,497 : ERROR : test_file_download : (<class 'selenium.common.exceptions.NoAlertPresentException'>, NoAlertPresentException('no such alert\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000022B9DBC3FC0>)
+2021-03-14 02:12:49,760 : WARNING : test_forgot_pass : The following error occured: Internal Server Error
+2021-03-14 02:13:09,457 : INFO : test_formauthentication : Logged in successfully!
+2021-03-14 02:13:09,564 : CRITICAL : test_formauthentication : Error while logging out
+2021-03-14 02:13:27,374 : ERROR : test_ab : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x0000022B9DBBFC80>)
+2021-03-14 02:13:53,854 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 1
+2021-03-14 02:13:53,855 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 1
+2021-03-14 02:13:53,898 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 2
+2021-03-14 02:13:53,898 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 2
+2021-03-14 02:13:53,942 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 3
+2021-03-14 02:13:53,942 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 3
+2021-03-14 02:13:53,983 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 4
+2021-03-14 02:13:53,983 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 4
+2021-03-14 02:13:54,027 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 5
+2021-03-14 02:13:54,027 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 5
+2021-03-14 02:13:54,064 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 6
+2021-03-14 02:13:54,064 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 6
+2021-03-14 02:13:54,107 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 7
+2021-03-14 02:13:54,107 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 7
+2021-03-14 02:13:54,157 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 8
+2021-03-14 02:13:54,157 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 8
+2021-03-14 02:13:54,200 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 9
+2021-03-14 02:13:54,200 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 9
+2021-03-14 02:13:54,234 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 10
+2021-03-14 02:13:54,234 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 10
+2021-03-14 02:13:54,330 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 11
+2021-03-14 02:13:54,330 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 11
+2021-03-14 02:13:54,391 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 12
+2021-03-14 02:13:54,392 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 12
+2021-03-14 02:13:54,434 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 13
+2021-03-14 02:13:54,434 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 13
+2021-03-14 02:13:54,479 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 14
+2021-03-14 02:13:54,479 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 14
+2021-03-14 02:13:54,522 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 15
+2021-03-14 02:13:54,522 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 15
+2021-03-14 02:13:54,557 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 16
+2021-03-14 02:13:54,558 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 16
+2021-03-14 02:13:54,624 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 17
+2021-03-14 02:13:54,624 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 17
+2021-03-14 02:13:54,753 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 18
+2021-03-14 02:13:54,753 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 18
+2021-03-14 02:13:54,782 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 19
+2021-03-14 02:13:54,782 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 19
+2021-03-14 02:13:54,813 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 20
+2021-03-14 02:13:54,813 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 20
+2021-03-14 02:13:54,852 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 21
+2021-03-14 02:13:54,853 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 21
+2021-03-14 02:13:54,890 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 22
+2021-03-14 02:13:54,890 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 22
+2021-03-14 02:13:54,932 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 23
+2021-03-14 02:13:54,933 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 23
+2021-03-14 02:13:54,973 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 24
+2021-03-14 02:13:54,973 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 24
+2021-03-14 02:13:55,014 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 25
+2021-03-14 02:13:55,015 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 25
+2021-03-14 02:13:55,055 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 26
+2021-03-14 02:13:55,056 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 26
+2021-03-14 02:13:55,098 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 27
+2021-03-14 02:13:55,098 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 27
+2021-03-14 02:13:55,144 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 28
+2021-03-14 02:13:55,144 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 28
+2021-03-14 02:13:55,196 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 29
+2021-03-14 02:13:55,196 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 29
+2021-03-14 02:13:55,243 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 30
+2021-03-14 02:13:55,243 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 30
+2021-03-14 02:13:55,283 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 31
+2021-03-14 02:13:55,283 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 31
+2021-03-14 02:13:55,329 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 32
+2021-03-14 02:13:55,329 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 32
+2021-03-14 02:13:55,385 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 33
+2021-03-14 02:13:55,385 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 33
+2021-03-14 02:13:55,426 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 34
+2021-03-14 02:13:55,426 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 34
+2021-03-14 02:13:55,468 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 35
+2021-03-14 02:13:55,468 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 35
+2021-03-14 02:13:55,521 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 36
+2021-03-14 02:13:55,521 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 36
+2021-03-14 02:13:55,558 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 37
+2021-03-14 02:13:55,558 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 37
+2021-03-14 02:13:55,600 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 38
+2021-03-14 02:13:55,600 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 38
+2021-03-14 02:13:55,645 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 39
+2021-03-14 02:13:55,646 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 39
+2021-03-14 02:13:55,685 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 40
+2021-03-14 02:13:55,685 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 40
+2021-03-14 02:13:55,722 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 41
+2021-03-14 02:13:55,722 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 41
+2021-03-14 02:13:55,760 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 42
+2021-03-14 02:13:55,760 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 42
+2021-03-14 02:13:55,795 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 43
+2021-03-14 02:13:55,795 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 43
+2021-03-14 02:13:55,839 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 44
+2021-03-14 02:13:55,840 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 44
+2021-03-14 02:13:55,883 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 45
+2021-03-14 02:13:55,883 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 45
+2021-03-14 02:13:55,925 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 46
+2021-03-14 02:13:55,925 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 46
+2021-03-14 02:13:55,967 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 47
+2021-03-14 02:13:55,968 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 47
+2021-03-14 02:13:56,006 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 48
+2021-03-14 02:13:56,006 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 48
+2021-03-14 02:13:56,049 : INFO : test_AddRemoveButtons : Clicked on Add Element. Current count= 49
+2021-03-14 02:13:56,049 : INFO : test_AddRemoveButtons : Count for Expected Delete increased to 49
+2021-03-14 02:14:14,373 : INFO : test_alerts : First Button
+2021-03-14 02:14:14,510 : INFO : test_alerts : Alert box text is: I am a JS Alert
+2021-03-14 02:14:16,541 : INFO : test_alerts : Here
+2021-03-14 02:14:18,596 : INFO : test_alerts : First alert working fine.
+2021-03-14 02:14:18,598 : INFO : test_alerts : Second Button
+2021-03-14 02:14:18,672 : INFO : test_alerts : Alert box text is: I am a JS Confirm
+2021-03-14 02:14:18,752 : INFO : test_alerts : Second alert working fine.
+2021-03-14 02:14:18,753 : INFO : test_alerts : Third Button
+2021-03-14 02:14:18,990 : INFO : test_alerts : Alert box text is: I am a JS prompt
+2021-03-14 02:14:19,039 : INFO : test_alerts : Third alert working fine.
+2021-03-14 02:14:41,203 : INFO : test_download : First file downloaded
+2021-03-14 02:14:54,644 : INFO : test_dropdown : Option selected from the dropdown and hence the case is completed!
+2021-03-14 02:15:15,220 : INFO : test_exit_intent : Created action object
+2021-03-14 02:15:15,221 : INFO : test_exit_intent : Created model object
+2021-03-14 02:15:15,221 : INFO : test_exit_intent : CHeck done
+2021-03-14 02:15:15,489 : INFO : test_exit_intent : Mouse moved by offset
+2021-03-14 02:15:15,510 : ERROR : test_exit_intent : (<class 'selenium.common.exceptions.NoSuchElementException'>, NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="model-body"]"}\n  (Session info: chrome=88.0.4324.190)', None, None), <traceback object at 0x0000022B9DD17080>)
+2021-03-14 02:15:32,317 : INFO : test_frames : Navigated to the correct page
+2021-03-14 02:15:48,178 : INFO : test_nestedframes : LEFT
+2021-03-14 02:15:48,184 : INFO : test_nestedframes : Switched to main frame
+2021-03-14 02:15:48,275 : INFO : test_nestedframes : MIDDLE
+2021-03-14 02:15:48,279 : INFO : test_nestedframes : Switched to main frame
+2021-03-14 02:15:48,365 : INFO : test_nestedframes : RIGHT
+2021-03-14 02:15:48,435 : INFO : test_nestedframes : BOTTOM
+2021-03-14 02:16:12,440 : INFO : test_geolocation : Clicked the 'Where am I?' button
+2021-03-14 02:16:12,849 : INFO : test_geolocation : Latitude: 30.214332199999998
+2021-03-14 02:16:12,849 : INFO : test_geolocation : Longitude: 74.9429229
+2021-03-14 02:16:34,697 : INFO : test_horizontal_slider : Working fine
+2021-03-14 02:16:55,170 : INFO : test_hovers : name: user1
+2021-03-14 02:16:55,721 : INFO : test_hovers : name: user2
+2021-03-14 02:16:56,562 : INFO : test_hovers : name: user3
+2021-03-14 02:17:11,525 : INFO : test_infinite_class : Scrolled 1 times
+2021-03-14 02:17:13,536 : INFO : test_infinite_class : Scrolled 2 times
+2021-03-14 02:17:15,564 : INFO : test_infinite_class : Scrolled 3 times
+2021-03-14 02:17:17,601 : INFO : test_infinite_class : Scrolled 4 times
+2021-03-14 02:17:19,627 : INFO : test_infinite_class : Scrolled 5 times
+2021-03-14 02:17:21,656 : INFO : test_infinite_class : Scrolled 6 times
+2021-03-14 02:17:23,684 : INFO : test_infinite_class : Scrolled 7 times
+2021-03-14 02:17:25,759 : INFO : test_infinite_class : Scrolled 8 times
+2021-03-14 02:17:27,813 : INFO : test_infinite_class : Scrolled 9 times
+2021-03-14 02:17:29,876 : INFO : test_infinite_class : Scrolled 10 times
+2021-03-14 02:17:31,924 : INFO : test_infinite_class : Scrolled 11 times
+2021-03-14 02:17:33,987 : INFO : test_infinite_class : Scrolled 12 times
+2021-03-14 02:17:36,052 : INFO : test_infinite_class : Scrolled 13 times
+2021-03-14 02:17:38,097 : INFO : test_infinite_class : Scrolled 14 times
+2021-03-14 02:17:59,891 : INFO : test_inputs : Working fine
+2021-03-14 02:18:12,581 : INFO : test_key_presses : Page opened successfully
+2021-03-14 02:18:12,624 : INFO : test_key_presses : UP Key detected successfully
+2021-03-14 02:18:12,653 : INFO : test_key_presses : DOWN Key detected successfully
+2021-03-14 02:18:31,562 : INFO : test_upload_file : FIle upload page opened
+2021-03-14 02:18:31,568 : INFO : test_upload_file : Location successfully picked
+2021-03-14 02:18:31,615 : INFO : test_upload_file : The Choose File button selected
+2021-03-14 02:18:31,670 : INFO : test_upload_file : Value sent to the button
+2021-03-14 02:18:37,847 : INFO : test_upload_file : Clicked on Upload button
+2021-03-14 02:18:37,895 : INFO : test_upload_file : File uploaded successfully
+2021-03-14 02:18:55,894 : INFO : test_windows : Opened page successfully
+2021-03-14 02:18:56,012 : INFO : test_windows : New window opened
+2021-03-14 02:18:56,544 : INFO : test_windows : Window switched successfully
+2021-03-14 02:18:56,614 : INFO : test_windows : Window switched successfully
+2021-03-14 03:07:55,339 : ERROR : test_ab : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x00000241793FA540>)
