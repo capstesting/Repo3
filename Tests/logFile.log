@@ -6,6 +6,7 @@
 2021-02-28 02:56:24,098 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000002265DD687C0>)
 2021-02-28 02:57:48,559 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000002412C23E640>)
 2021-02-28 02:59:18,798 : ERROR : test_checkButtons : (<class 'AttributeError'>, AttributeError("type object 'By' has no attribute 'tag_name'"), <traceback object at 0x000001D56E890540>)
+Some changes were to be made by Y in Develop1 Branch
 2021-02-28 02:59:58,756 : INFO : test_checkButtons : Here
 2021-02-28 02:59:58,850 : INFO : test_checkButtons : Clicked on Add Element
 2021-02-28 02:59:58,851 : INFO : test_checkButtons : Count for Expected Delete increased
