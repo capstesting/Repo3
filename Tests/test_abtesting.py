@@ -5,7 +5,7 @@ from utilities.BaseClass import BaseClass
 
 class TestAB(BaseClass):
     def test_ab(self):
-        log = self.getLogger()
+        log = self.getLogger254()
         try:
             self.driver.find_element_by_xpath('//a[text()="A/B Testing"]').click()
             sleep(5)
