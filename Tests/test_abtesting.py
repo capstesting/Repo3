@@ -5,7 +5,7 @@ from utilities.BaseClass import BaseClass
 
 class TestAB(BaseClass):
     def test_ab(self):
-        log = self.getLogger254()
+        log = self.getLogger()
         try:
             self.driver.find_element_by_xpath('//a[text()="A/B Testing"]').click()
             sleep(5)
@@ -13,6 +13,7 @@ class TestAB(BaseClass):
             message = self.driver.find_element_by_tag_name('p').text
             if 'Also known as' in message:
                 log.info("First Test is successfully executed.")
+                #New comment
 
         except:
             log.error(sys.exc_info())
